@@ -618,10 +618,27 @@
 		"country": "Belarus",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"102"
+				]
+			},
+			{
+				"name": "Victims of Violence",
+				"numbers": [
+					"8 801 100 8 801"
+				]
+			},
+			{
+				"name": "Victims of Violence (Children)",
+				"numbers": [
+					"801 100 1611"
+				]
+			},
+			{
+				"name": "Телефон доверия экстренной психологической помощи",
+				"numbers": [
+					"17 311 00 99"
 				]
 			}
 		]
