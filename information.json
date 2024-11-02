@@ -970,25 +970,30 @@
 		]
 	},
 	{
-		"country": "Burma",
-		"hotlines": [
-			{
-				"name": "<organization name>",
-				"numbers": [
-					"<number 1>",
-					"<number 2>"
-				]
-			}
-		]
-	},
-	{
 		"country": "Burundi",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
+				]
+			},
+			{
+				"name": "Human Health Aid Burundi",
+				"numbers": [
+					"0025772005154"
+				]
+			},
+			{
+				"name": "SOS FED - SOS Femmes en Detresse",
+				"numbers": [
+					"75 33 17 27"
+				]
+			},
+			{
+				"name": "Yaga Ndakumva Child Helpline",
+				"numbers": [
+					"116"
 				]
 			}
 		]
