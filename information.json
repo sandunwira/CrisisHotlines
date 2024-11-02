@@ -1545,6 +1545,23 @@
 		]
 	},
 	{
+		"country": "Curaçao",
+		"hotlines": [
+			{
+				"name": "Emergency",
+				"numbers": [
+					"911"
+				]
+			},
+			{
+				"name": "Ayudo pa mucha i hoben 918",
+				"numbers": [
+					"918"
+				]
+			}
+		]
+	},
+	{
 		"country": "Cyprus",
 		"hotlines": [
 			{
