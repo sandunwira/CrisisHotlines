@@ -892,10 +892,21 @@
 		"country": "Brunei",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Ambulance",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Police",
+				"numbers": [
+					"993"
+				]
+			},
+			{
+				"name": "Talian Harapan 145",
+				"numbers": [
+					"145"
 				]
 			}
 		]
