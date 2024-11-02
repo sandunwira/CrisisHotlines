@@ -775,10 +775,22 @@
 		"country": "Bolivia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Línea 156",
+				"numbers": [
+					"156 800 10 4100"
+				]
+			},
+			{
+				"name": "Telefono de la Esperanza",
+				"numbers": [
+					"00 591 4 4 25 42 42",
+					"75288084"
 				]
 			}
 		]
