@@ -2383,10 +2383,9 @@
 		"country": "Georgia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
 				]
 			}
 		]
