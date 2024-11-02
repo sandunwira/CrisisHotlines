@@ -166,10 +166,173 @@
 		"country": "Australia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"000",
+					"112",
+					"106"
+				]
+			},
+			{
+				"name": "Lifeline",
+				"numbers": [
+					"13 11 14"
+				]
+			},
+			{
+				"name": "Kids Helpline",
+				"numbers": [
+					"1800 55 1800"
+				]
+			},
+			{
+				"name": "MensLine Australia",
+				"numbers": [
+					"1300 78 99 78"
+				]
+			},
+			{
+				"name": "Beyond Blue",
+				"numbers": [
+					"1300 22 4636"
+				]
+			},
+			{
+				"name": "Suicide Call Back Service",
+				"numbers": [
+					"1300 659 467"
+				]
+			},
+			{
+				"name": "Support Act First Nations Dedicated Support Line",
+				"numbers": [
+					"1800 959 500"
+				]
+			},
+			{
+				"name": "SANE",
+				"numbers": [
+					"1800 187 263"
+				]
+			},
+			{
+				"name": "eheadspace",
+				"numbers": [
+					"1800 650 890"
+				]
+			},
+			{
+				"name": "Listening Ear",
+				"numbers": [
+					"02 9477 6777"
+				]
+			},
+			{
+				"name": "Wellways Helpline",
+				"numbers": [
+					"1300 111 500"
+				]
+			},
+			{
+				"name": "Thirrili National Indigenous Postvention Service",
+				"numbers": [
+					"1800 805 801"
+				]
+			},
+			{
+				"name": "1800RESPECT",
+				"numbers": [
+					"1800 737 732"
+				]
+			},
+			{
+				"name": "National Alcohol & Other Drug Hotline",
+				"numbers": [
+					"1800 250 015"
+				]
+			},
+			{
+				"name": "National Dementia Helpline",
+				"numbers": [
+					"1800 100 500"
+				]
+			},
+			{
+				"name": "Rainbow Sexual, Domestic and Family Violence Helpline",
+				"numbers": [
+					"1800 497 212"
+				]
+			},
+			{
+				"name": "Butterfly Foundation",
+				"numbers": [
+					"1800 33 4673"
+				]
+			},
+			{
+				"name": "QLife",
+				"numbers": [
+					"1800 184 527"
+				]
+			},
+			{
+				"name": "Blue Knot Helpline and Redress Support Service",
+				"numbers": [
+					"1300 657 380"
+				]
+			},
+			{
+				"name": "Griefline",
+				"numbers": [
+					"1300 845 745"
+				]
+			},
+			{
+				"name": "StandBy Support After Suicide",
+				"numbers": [
+					"1 300 727 247"
+				]
+			},
+			{
+				"name": "Open Arms - Veterans & Families Counselling",
+				"numbers": [
+					"1800 011 046"
+				]
+			},
+			{
+				"name": "TIACS",
+				"numbers": [
+					"0488 846 988"
+				]
+			},
+			{
+				"name": "PANDA (Perinatal Anxiety and Depression Australia)",
+				"numbers": [
+					"1300 726 306"
+				]
+			},
+			{
+				"name": "Canteen",
+				"numbers": [
+					"1800 835 932"
+				]
+			},
+			{
+				"name": "Gambler's Help",
+				"numbers": [
+					"1800 858 858"
+				]
+			},
+			{
+				"name": "The Samaritans Inc",
+				"numbers": [
+					"1800 198 313"
+				]
+			},
+			{
+				"name": "Lifelink Samaritans Tasmania",
+				"numbers": [
+					"03 6331 3355"
 				]
 			}
 		]
