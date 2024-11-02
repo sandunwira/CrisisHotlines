@@ -915,10 +915,39 @@
 		"country": "Bulgaria",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Национална телефонна линия за деца - National Telephone Line for Children",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Национална гореща линия за пострадали от насилие за България",
+				"numbers": [
+					"0800 18676"
+				]
+			},
+			{
+				"name": "Алианс за защита от насилие, основано на пола - Alliance for Protection against Gender-Based Violence",
+				"numbers": [
+					"0800 11977"
+				]
+			},
+			{
+				"name": "Sofia Hotline",
+				"numbers": [
+					"0035 9249 17 223"
+				]
+			},
+			{
+				"name": "Bulgarian Red Cross",
+				"numbers": [
+					"0800 11466"
 				]
 			}
 		]
