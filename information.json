@@ -1259,10 +1259,119 @@
 		"country": "China",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"110"
+				]
+			},
+			{
+				"name": "Lifeline",
+				"numbers": [
+					"400 821 1215"
+				]
+			},
+			{
+				"name": "沈阳市心理援助24小时热线 Shenyang Psychological Assistance 24-Hour Hotline",
+				"numbers": [
+					"024 23813000"
+				]
+			},
+			{
+				"name": "昆明市24小时心理热线 Kunming 24-Hour Psychological Hotline",
+				"numbers": [
+					"0871 65011111"
+				]
+			},
+			{
+				"name": "“新型冠状病毒感染的肺炎”疫情防控心理援助热线 \"Coronavirus\" Prevention and Control Psychological Assistance Hotline",
+				"numbers": [
+					"400 1096096"
+				]
+			},
+			{
+				"name": "焦作市24小时心理援助热线 Jiaozuo 24-hour psychological assistance hotline",
+				"numbers": [
+					"0391 3698120"
+				]
+			},
+			{
+				"name": "许昌市“新冠肺炎”24小时心理援助热线 Xuchang \"Corona Virus\" 24-Hour Psychological Assistance Hotline",
+				"numbers": [
+					"0374-3361021"
+				]
+			},
+			{
+				"name": "全国咨询热线 National Hotline",
+				"numbers": [
+					"13722875022"
+				]
+			},
+			{
+				"name": "连心公益热线 Lianxin Charity Hotline",
+				"numbers": [
+					"0871 6418 3896"
+				]
+			},
+			{
+				"name": "陕西省心理热线 Shaanxi Psychological Hotline",
+				"numbers": [
+					"029 63609258"
+				]
+			},
+			{
+				"name": "“新老师”心理咨询热线 \"New Teacher\" Psychological Counseling Hotline",
+				"numbers": [
+					"0373 3022889"
+				]
+			},
+			{
+				"name": "汉中市24小时心理援助热线 Hanzhong City 24-Hour Psychological Assistance Hotline",
+				"numbers": [
+					"4008096341"
+				]
+			},
+			{
+				"name": "希望24热线Hope Line",
+				"numbers": [
+					"400 161 9995"
+				]
+			},
+			{
+				"name": "红枫妇女热线Maple Women Hotline",
+				"numbers": [
+					"010 68333388"
+				]
+			},
+			{
+				"name": "Beijing Suicide Research and Prevention Center",
+				"numbers": [
+					"800 810 1117",
+					"010 8295 1332"
+				]
+			},
+			{
+				"name": "Shanghai Mental Health Center",
+				"numbers": [
+					"021 64387250"
+				]
+			},
+			{
+				"name": "Shenzhen Mental Health Center",
+				"numbers": [
+					"400 995 995 9"
+				]
+			},
+			{
+				"name": "Guangzhou Crisis Research and Intervention Center",
+				"numbers": [
+					"020 81899120",
+					"020 12320 5"
+				]
+			},
+			{
+				"name": "Mental Health Center of School of Medicine of Zhejiang University",
+				"numbers": [
+					"0571 85029595"
 				]
 			}
 		]
