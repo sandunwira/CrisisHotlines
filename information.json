@@ -1779,10 +1779,15 @@
 		"country": "Djibouti",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"17"
+				]
+			},
+			{
+				"name": "L'Union Nationale des Femmes Djiboutienne (service d'Écoute)",
+				"numbers": [
+					"+253 21 35 04 21"
 				]
 			}
 		]
