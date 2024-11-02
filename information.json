@@ -1807,10 +1807,15 @@
 		"country": "Dominican Republic",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Linea Familiar",
+				"numbers": [
+					"1 809 636 3507"
 				]
 			}
 		]
