@@ -1990,10 +1990,46 @@
 		"country": "Fiji",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911",
+					"917"
+				]
+			},
+			{
+				"name": "Empower Pacific 24/7 Counselling Helpline",
+				"numbers": [
+					"5626"
+				]
+			},
+			{
+				"name": "National Crisis Toll-Free Line | Suicide Prevention",
+				"numbers": [
+					"1543"
+				]
+			},
+			{
+				"name": "Child Helpline Fiji",
+				"numbers": [
+					"1325"
+				]
+			},
+			{
+				"name": "Fiji National Domestic Violence Helpline",
+				"numbers": [
+					"1560"
+				]
+			},
+			{
+				"name": "Fiji Women's Crisis Centre",
+				"numbers": [
+					"3313 300"
+				]
+			},
+			{
+				"name": "Lifeline Fiji",
+				"numbers": [
+					"132454"
 				]
 			}
 		]
