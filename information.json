@@ -88,6 +88,18 @@
 		"country": "Argentina",
 		"hotlines": [
 			{
+				"name": "Emergency",
+				"numbers": [
+					"911"
+				]
+			},
+			{
+				"name": "Centro de Asistencia al Suicida",
+				"numbers": [
+					"5275 1135"
+				]
+			},
+			{
 				"name": "S.O.S Un Amigo Anónimo",
 				"numbers": [
 					"5263 0583"
