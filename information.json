@@ -2127,10 +2127,226 @@
 		"country": "France",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"17"
+				]
+			},
+			{
+				"name": "SOS Amitié",
+				"numbers": [
+					"09 72 39 40 50"
+				]
+			},
+			{
+				"name": "Suicide Écoute",
+				"numbers": [
+					"01 45 39 40 00"
+				]
+			},
+			{
+				"name": "3114, numéro national de prévention du suicide",
+				"numbers": [
+					"3114"
+				]
+			},
+			{
+				"name": "SOS Help - emotional support in English in France",
+				"numbers": [
+					"01 46 21 46 46"
+				]
+			},
+			{
+				"name": "Croix-Rouge française à votre écoute",
+				"numbers": [
+					"0 800 858 858"
+				]
+			},
+			{
+				"name": "Agri'écoute",
+				"numbers": [
+					"09 69 39 29 19"
+				]
+			},
+			{
+				"name": "Fil Santé Jeunes",
+				"numbers": [
+					"0800 235 236"
+				]
+			},
+			{
+				"name": "La Fédération SOS Suicide Phénix France",
+				"numbers": [
+					"01 40 44 46 45"
+				]
+			},
+			{
+				"name": "Association France Dépression - Ecoute patients",
+				"numbers": [
+					"07 84 96 88 28"
+				]
+			},
+			{
+				"name": "Cellule de soutien psychologique pour les chefs d’entreprises",
+				"numbers": [
+					"08 05 65 50 50"
+				]
+			},
+			{
+				"name": "Ecoute-famille de Unafam-Union Nationale de Familles et Amis de personnes malades et/ ou handicapées psychiques",
+				"numbers": [
+					"01 42 63 03 03"
+				]
+			},
+			{
+				"name": "Phare Enfants-Parents",
+				"numbers": [
+					"01 43 46 00 62"
+				]
+			},
+			{
+				"name": "SOS Homophobie, LGBTIphobias Helpline",
+				"numbers": [
+					"01 48 06 42 41"
+				]
+			},
+			{
+				"name": "Fondation Le Refuge (Ligne pour les jeunes LGBT+)",
+				"numbers": [
+					"06 31 59 69 50"
+				]
+			},
+			{
+				"name": "La Fédération Nationale G.A.M.S. (Groupe pour l'Abolition des Mutilations Sexuelles Féminines -excision-, des Mariages Forcés et autres pratiques traditionnelles néfastes à la santé des femmes et des enfants)",
+				"numbers": [
+					"+33 01 43 48 10 87"
+				]
+			},
+			{
+				"name": "Collectif Feministe Contre le Viol (CFCV)- Viols Femmes Informations",
+				"numbers": [
+					"0 800 05 95 95"
+				]
+			},
+			{
+				"name": "Sida Info Service",
+				"numbers": [
+					"0 800 840 800"
+				]
+			},
+			{
+				"name": "Violences Femmes Info",
+				"numbers": [
+					"3919"
+				]
+			},
+			{
+				"name": "SOS Joueurs",
+				"numbers": [
+					"09 69 39 55 12"
+				]
+			},
+			{
+				"name": "Drogues info service",
+				"numbers": [
+					"0800 231 313"
+				]
+			},
+			{
+				"name": "Fédération Nationale des Associations et des Centres de prise en Charge d'Auteurs de Violences conjugales & Familiales (FNACAV)",
+				"numbers": [
+					"08 019 019 11"
+				]
+			},
+			{
+				"name": "France Victimes - numéro national d'aide aux victimes",
+				"numbers": [
+					"116 006"
+				]
+			},
+			{
+				"name": "Associations Femmes pour le Dire, Femmes pour Agir (FDFA)- Écoute Violences Femmes Handicapées (EVFH)",
+				"numbers": [
+					"01 40 47 06 06"
+				]
+			},
+			{
+				"name": "EMPREINTES - Accompagner le deuil (Ligne d'écoute téléphonique nationale)",
+				"numbers": [
+					"01 42 380 808"
+				]
+			},
+			{
+				"name": "Fédération Française Anorexie Boulimie (FFAB)",
+				"numbers": [
+					"0969325900"
+				]
+			},
+			{
+				"name": "119 - Allô Enfance en Danger",
+				"numbers": [
+					"119"
+				]
+			},
+			{
+				"name": "LÉIA EST LÀ Linha de apoio",
+				"numbers": [
+					"0800 004 134"
+				]
+			},
+			{
+				"name": "Confederation Planning Familial - ligne vert",
+				"numbers": [
+					"08 00 08 11 11"
+				]
+			},
+			{
+				"name": "L'association Avec Nos Proches",
+				"numbers": [
+					"01 84 72 94 72"
+				]
+			},
+			{
+				"name": "Joueurs info service",
+				"numbers": [
+					"09 74 75 13 13"
+				]
+			},
+			{
+				"name": "Fédération 3977 contre les maltraitances",
+				"numbers": [
+					"3977"
+				]
+			},
+			{
+				"name": "Solitud'écoute - Petits Frères des Pauvres",
+				"numbers": [
+					"08 00 47 47 88"
+				]
+			},
+			{
+				"name": "e-Enfance/3018",
+				"numbers": [
+					"3018"
+				]
+			},
+			{
+				"name": "Allo Parents Bébé - Enfance et Partage National",
+				"numbers": [
+					"08 00 00 34 56"
+				]
+			},
+			{
+				"name": "Autisme Info Service",
+				"numbers": [
+					"08 00 71 40 40"
+				]
+			},
+			{
+				"name": "Stop Maltraitance - Stop Conflit (Enfance et Partage National)",
+				"numbers": [
+					"08 00 05 12 34"
 				]
 			}
 		]
