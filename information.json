@@ -88,10 +88,39 @@
 		"country": "Argentina",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "S.O.S Un Amigo Anónimo",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"5263 0583"
+				]
+			},
+			{
+				"name": "Línea de Prevención Del Suicidio",
+				"numbers": [
+					"0800 345 1435"
+				]
+			},
+			{
+				"name": "144 Víctimas de Violencia",
+				"numbers": [
+					"144"
+				]
+			},
+			{
+				"name": "Centro de Atencíon al Familiar del Suicida",
+				"numbers": [
+					"011 4758 2554"
+				]
+			},
+			{
+				"name": "Centro de Valorizacion de la Vida Samaritanos",
+				"numbers": [
+					"054 022 3493 0430"
+				]
+			},
+			{
+				"name": "Teléfono de la Esperanza",
+				"numbers": [
+					"902 500 002"
 				]
 			}
 		]
