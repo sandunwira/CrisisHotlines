@@ -2505,6 +2505,37 @@
 		]
 	},
 	{
+		"country": "Gibraltar",
+		"hotlines": [
+			{
+				"name": "Emergency",
+				"numbers": [
+					"112",
+					"199",
+					"999"
+				]
+			},
+			{
+				"name": "GibSams",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Bruce's Farm",
+				"numbers": [
+					"200 48444"
+				]
+			},
+			{
+				"name": "Childline Gibraltar",
+				"numbers": [
+					"8008"
+				]
+			}
+		]
+	},
+	{
 		"country": "Greece",
 		"hotlines": [
 			{
