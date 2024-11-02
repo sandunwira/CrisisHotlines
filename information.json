@@ -1450,10 +1450,15 @@
 		"country": "Cook Islands",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999"
+				]
+			},
+			{
+				"name": "Te Kainga O Pa Taunga",
+				"numbers": [
+					"20162"
 				]
 			}
 		]
