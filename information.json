@@ -851,10 +851,39 @@
 		"country": "Brazil",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"190"
+				]
+			},
+			{
+				"name": "Centro de Valorização da Vida",
+				"numbers": [
+					"188"
+				]
+			},
+			{
+				"name": "The CVV - Life Valuation Center",
+				"numbers": [
+					"55 11 3151 4109"
+				]
+			},
+			{
+				"name": "JUNAAB Alcoólicos Anônimos do Brasil",
+				"numbers": [
+					"55 11 3315 9333"
+				]
+			},
+			{
+				"name": "Ligue 180",
+				"numbers": [
+					"180"
+				]
+			},
+			{
+				"name": "Linha de Ajuda Narcóticos Anônimos 132",
+				"numbers": [
+					"132"
 				]
 			}
 		]
