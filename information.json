@@ -647,10 +647,75 @@
 		"country": "Belgium",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Télé-Accueil",
+				"numbers": [
+					"107"
+				]
+			},
+			{
+				"name": "Tele-Onthaal",
+				"numbers": [
+					"106"
+				]
+			},
+			{
+				"name": "Community Help Centre Helpline",
+				"numbers": [
+					"02 648 40 14"
+				]
+			},
+			{
+				"name": "AWEL",
+				"numbers": [
+					"102"
+				]
+			},
+			{
+				"name": "Zelfmoordlijn 1813",
+				"numbers": [
+					"1813"
+				]
+			},
+			{
+				"name": "Centre de Prévention des Violences Conjugales et Familiales",
+				"numbers": [
+					"0800 30 030"
+				]
+			},
+			{
+				"name": "Child Focus",
+				"numbers": [
+					"116 000"
+				]
+			},
+			{
+				"name": "De Druglijn Helpline",
+				"numbers": [
+					"078 15 10 20"
+				]
+			},
+			{
+				"name": "Centre pour l'Égalité des chances et la lutte contre le racisme (UNIA)",
+				"numbers": [
+					"0800 12 800"
+				]
+			},
+			{
+				"name": "103-Ecoute-Enfants",
+				"numbers": [
+					"103"
+				]
+			},
+			{
+				"name": "Centre de Prévention du Suicide",
+				"numbers": [
+					"0800 32 123"
 				]
 			}
 		]
