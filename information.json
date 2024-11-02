@@ -2539,10 +2539,63 @@
 		"country": "Greece",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"100"
+				]
+			},
+			{
+				"name": "1018 - 24ωρη Γραμμή Παρέμβασης για την Αυτοκτονία",
+				"numbers": [
+					"1018"
+				]
+			},
+			{
+				"name": "Together for Children 11525 Helpline",
+				"numbers": [
+					"11525"
+				]
+			},
+			{
+				"name": "Στο 11528 - ΔΙΠΛΑ ΣΟΥ Γραμμή βοήθειας",
+				"numbers": [
+					"11528"
+				]
+			},
+			{
+				"name": "ELIZA Helpline - Support for Professionals Working With Children",
+				"numbers": [
+					"10454"
+				]
+			},
+			{
+				"name": "Women SOS",
+				"numbers": [
+					"15900"
+				]
+			},
+			{
+				"name": "Εθνική Τηλεφωνική Γραμμή για τα Παιδιά SOS 1056",
+				"numbers": [
+					"1056"
+				]
+			},
+			{
+				"name": "Σύνδεσμος Μελών Γυναικείων Σωματείων Γραμμή Ελπίδας - Union of Women Association Hope Line",
+				"numbers": [
+					"801 11 16000"
+				]
+			},
+			{
+				"name": "Cyber Crime Division",
+				"numbers": [
+					"11188"
+				]
+			},
+			{
+				"name": "SOS Lifeline for the elderly",
+				"numbers": [
+					"1065"
 				]
 			}
 		]
