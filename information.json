@@ -1601,10 +1601,70 @@
 		"country": "Czech Republic",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"158"
+				]
+			},
+			{
+				"name": "Modrá linka",
+				"numbers": [
+					"608 902 410"
+				]
+			},
+			{
+				"name": "Linka první psychické pomoci",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Linka bezpečí",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Pražská linka důvěry",
+				"numbers": [
+					"+420 222 580 697"
+				]
+			},
+			{
+				"name": "Linka pro rodinu a školu / Family and School Emergency Line",
+				"numbers": [
+					"116 000"
+				]
+			},
+			{
+				"name": "Most k naději",
+				"numbers": [
+					"+420476701444"
+				]
+			},
+			{
+				"name": "Krizová linka",
+				"numbers": [
+					"585 414 600"
+				]
+			},
+			{
+				"name": "Linka pomoci obětem kriminality a domácího násilí 116 006",
+				"numbers": [
+					"116 006"
+				]
+			},
+			{
+				"name": "Linka Seniorů",
+				"numbers": [
+					"+420 800 200 007"
+				]
+			},
+			{
+				"name": "Linka důvěry Dětského krizového centra",
+				"numbers": [
+					"+420 241 484 149"
 				]
 			}
 		]
