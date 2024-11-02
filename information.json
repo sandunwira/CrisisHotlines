@@ -1380,10 +1380,57 @@
 		"country": "Colombia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"123"
+				]
+			},
+			{
+				"name": "Crisis Hotline",
+				"numbers": [
+					"106"
+				]
+			},
+			{
+				"name": "Línea Salvavidas",
+				"numbers": [
+					"+573117668666"
+				]
+			},
+			{
+				"name": "141 Línea de Protección a Niños, Niñas y Adolescentes",
+				"numbers": [
+					"141"
+				]
+			},
+			{
+				"name": "ICBF - Instituto Colombiano de Bienestar Familiar",
+				"numbers": [
+					"141"
+				]
+			},
+			{
+				"name": "Línea 155 - SALVIA",
+				"numbers": [
+					"155"
+				]
+			},
+			{
+				"name": "Te Guío",
+				"numbers": [
+					"018005190690"
+				]
+			},
+			{
+				"name": "Telefono de la Esperanza - Baranquilla",
+				"numbers": [
+					"00 57 5 372 27 27"
+				]
+			},
+			{
+				"name": "Telefono de la Esperanza - Bogota",
+				"numbers": [
+					"1 323 24 25"
 				]
 			}
 		]
