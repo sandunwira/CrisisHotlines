@@ -141,10 +141,23 @@
 		"country": "Armenia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"911"
+				]
+			},
+			{
+				"name": "Trust Social Work and Sociological Research Centre",
+				"numbers": [
+					"538194",
+					"538197"
+				]
+			},
+			{
+				"name": "FAR Child Protection Hotline",
+				"numbers": [
+					"0800 61 111"
 				]
 			}
 		]
