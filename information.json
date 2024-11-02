@@ -1158,13 +1158,18 @@
 		]
 	},
 	{
-		"country": "Cayman Islands, The",
+		"country": "Cayman Islands",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "CayMind - Mental Health Helpline",
+				"numbers": [
+					"1 800 534 6463"
 				]
 			}
 		]
