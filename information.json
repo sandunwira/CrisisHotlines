@@ -466,10 +466,28 @@
 		"country": "Azerbaijan",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Youth Crisis Hotline - Initiative for Development",
+				"numbers": [
+					"510 66 36"
+				]
+			},
+			{
+				"name": "Azerbaijan Child Helpline Service",
+				"numbers": [
+					"116111"
+				]
+			},
+			{
+				"name": "Azerbaijan Children Hotline",
+				"numbers": [
+					"012 480 22 80",
+					"050 680 22 80"
 				]
 			}
 		]
