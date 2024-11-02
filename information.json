@@ -1565,10 +1565,34 @@
 		"country": "Cyprus",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"199"
+				]
+			},
+			{
+				"name": "Cyprus Samaritans",
+				"numbers": [
+					"8000 7773"
+				]
+			},
+			{
+				"name": "Association for the Prevention and Handling of Violence in the Family (APHVF) Helpline 1440",
+				"numbers": [
+					"1440"
+				]
+			},
+			{
+				"name": "116000",
+				"numbers": [
+					"116000"
+				]
+			},
+			{
+				"name": "Hope for Children Helpline 1466",
+				"numbers": [
+					"1466"
 				]
 			}
 		]
