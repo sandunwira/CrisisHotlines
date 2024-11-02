@@ -761,6 +761,17 @@
 		]
 	},
 	{
+		"country": "Bhutan",
+		"hotlines": [
+			{
+				"name": "Health Help Center",
+				"numbers": [
+					"112"
+				]
+			}
+		]
+	},
+	{
 		"country": "Bolivia",
 		"hotlines": [
 			{
