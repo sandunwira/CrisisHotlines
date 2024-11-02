@@ -1467,10 +1467,27 @@
 		"country": "Costa Rica",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Suicide Hotline",
+				"numbers": [
+					"506 253 5439"
+				]
+			},
+			{
+				"name": "Línea Aquí Estoy del Colegio De Profesionales en Psicología",
+				"numbers": [
+					"800 2737869"
+				]
+			},
+			{
+				"name": "Patronato Nacional de la Infancia (PANI) - Línea 1147",
+				"numbers": [
+					"1147"
 				]
 			}
 		]
