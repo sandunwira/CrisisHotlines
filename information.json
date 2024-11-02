@@ -1200,10 +1200,57 @@
 		"country": "Chile",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"133"
+				]
+			},
+			{
+				"name": "Psicólogos X Chile",
+				"numbers": [
+					"67613603"
+				]
+			},
+			{
+				"name": "National Suicide Hotline",
+				"numbers": [
+					"4141"
+				]
+			},
+			{
+				"name": "Ministry of Health of Chile",
+				"numbers": [
+					"6003607777"
+				]
+			},
+			{
+				"name": "1455",
+				"numbers": [
+					"1455"
+				]
+			},
+			{
+				"name": "Fono Familia 149",
+				"numbers": [
+					"149"
+				]
+			},
+			{
+				"name": "Línea Libre",
+				"numbers": [
+					"1515"
+				]
+			},
+			{
+				"name": "Fono Infancia Fundación Integra",
+				"numbers": [
+					"800200818"
+				]
+			},
+			{
+				"name": "Teléfono de la Esperanza",
+				"numbers": [
+					"0056 42 22 12 00"
 				]
 			}
 		]
