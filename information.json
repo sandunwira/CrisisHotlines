@@ -577,10 +577,39 @@
 		"country": "Barbados",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Police",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"211"
+				]
+			},
+			{
+				"name": "Ambulance",
+				"numbers": [
+					"511"
+				]
+			},
+			{
+				"name": "Fire Station",
+				"numbers": [
+					"311"
+				]
+			},
+			{
+				"name": "Samaritans of Barbados",
+				"numbers": [
+					"246 429 9999"
+				]
+			},
+			{
+				"name": "Advocates Against Domestic Abuse Helpline",
+				"numbers": [
+					"246 432 2873"
+				]
+			},
+			{
+				"name": "W Barbados",
+				"numbers": [
+					"246 435 8222"
 				]
 			}
 		]
