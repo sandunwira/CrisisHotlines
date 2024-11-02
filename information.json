@@ -1047,10 +1047,112 @@
 		"country": "Canada",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Suicide Crisis Hotline",
+				"numbers": [
+					"988"
+				]
+			},
+			{
+				"name": "Kids Help Phone",
+				"numbers": [
+					"1 800 668 6868"
+				]
+			},
+			{
+				"name": "Naseeha Mental Helpline",
+				"numbers": [
+					"1 866 627 3342"
+				]
+			},
+			{
+				"name": "LGBT National Hotline",
+				"numbers": [
+					"1 888 843 4564"
+				]
+			},
+			{
+				"name": "First Nations and Inuit Hope for Wellness Helpline",
+				"numbers": [
+					"1 855 242 3310"
+				]
+			},
+			{
+				"name": "The Listening Ear - Canada",
+				"numbers": [
+					"1 517 337 1717"
+				]
+			},
+			{
+				"name": "Salal 24-Hour Crisis & Information Line",
+				"numbers": [
+					"1 604 255 6344"
+				]
+			},
+			{
+				"name": "Canadian Human Trafficking Hotline",
+				"numbers": [
+					"1 833 900 1010"
+				]
+			},
+			{
+				"name": "Canadian Resource Centre for Victims of Crime",
+				"numbers": [
+					"1 877 232 2610"
+				]
+			},
+			{
+				"name": "ANEB Québec (Anorexie et boulimie Québec)",
+				"numbers": [
+					"1 800 630 0907"
+				]
+			},
+			{
+				"name": "National Eating Disorder Information Centre",
+				"numbers": [
+					"1 866 633-4220"
+				]
+			},
+			{
+				"name": "National Abortion Hotline",
+				"numbers": [
+					"1 800 772-9100"
+				]
+			},
+			{
+				"name": "24 Hour Residential School Crisis Line",
+				"numbers": [
+					"1 866 925 4419"
+				]
+			},
+			{
+				"name": "Pregnancy and Infant loss Warmline",
+				"numbers": [
+					"1 888 910 1551"
+				]
+			},
+			{
+				"name": "NISA Helpline",
+				"numbers": [
+					"1 888 315 6472"
+				]
+			},
+			{
+				"name": "Talk Suicide Canada",
+				"numbers": [
+					"1 833 456 4566",
+					"45645"
+				]
+			},
+			{
+				"name": "Trans Lifeline",
+				"numbers": [
+					"1 877 330 6366"
 				]
 			}
 		]
