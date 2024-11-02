@@ -1684,10 +1684,93 @@
 		"country": "Denmark",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Psykiatrifonden, Mental Health Helpline",
+				"numbers": [
+					"39 25 25 25"
+				]
+			},
+			{
+				"name": "Livslinien",
+				"numbers": [
+					"70 201 201"
+				]
+			},
+			{
+				"name": "Girltalk Helpline",
+				"numbers": [
+					"49491818"
+				]
+			},
+			{
+				"name": "LGBT+ Denmark's Counselling Line",
+				"numbers": [
+					"+453313 1948"
+				]
+			},
+			{
+				"name": "Alkolinjen Helpline",
+				"numbers": [
+					"80 200 500"
+				]
+			},
+			{
+				"name": "Sexlinien for unge",
+				"numbers": [
+					"70202266"
+				]
+			},
+			{
+				"name": "Landsforeningen mod spiseforstyrrelser og selvskade Hjælpelinje (LMS)",
+				"numbers": [
+					"7010 1818"
+				]
+			},
+			{
+				"name": "Sorglinjen - The Grief Line",
+				"numbers": [
+					"70 209 903"
+				]
+			},
+			{
+				"name": "Bryd Tavsgeden Hjælpelinje - Break the Silence Helpline",
+				"numbers": [
+					"+45 44 45 20 90"
+				]
+			},
+			{
+				"name": "Hjælp Voldsofre Hjælpelinje",
+				"numbers": [
+					"+45 8641 5900"
+				]
+			},
+			{
+				"name": "Anonyme Narkotika",
+				"numbers": [
+					"+45 70 20 01 85"
+				]
+			},
+			{
+				"name": "BørneTelefonen",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Lev Uden Vold",
+				"numbers": [
+					"1888"
+				]
+			},
+			{
+				"name": "Sct. Nicolai Tjenesten",
+				"numbers": [
+					"+45 70 120 110"
 				]
 			}
 		]
