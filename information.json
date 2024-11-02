@@ -1916,10 +1916,39 @@
 		"country": "Estonia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Ohvriabi kriisitelefon",
+				"numbers": [
+					"116 006"
+				]
+			},
+			{
+				"name": "Emotsionaalse toe telefon Eluliin",
+				"numbers": [
+					"655 8088"
+				]
+			},
+			{
+				"name": "Телефон доверия \"Линия жизни\" на русском языке",
+				"numbers": [
+					"655 5688"
+				]
+			},
+			{
+				"name": "Lasteabi Abitelefon",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Tartu Women's Shelter Helpline",
+				"numbers": [
+					"+372 5594 9496"
 				]
 			}
 		]
