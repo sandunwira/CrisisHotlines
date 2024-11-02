@@ -799,10 +799,21 @@
 		"country": "Bosnia and Herzegovina",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"124"
+				]
+			},
+			{
+				"name": "Plavi Telefon - Blue Phone",
+				"numbers": [
+					"080 05 03 05"
+				]
+			},
+			{
+				"name": "Centar Srce",
+				"numbers": [
+					"0800 300303"
 				]
 			}
 		]
