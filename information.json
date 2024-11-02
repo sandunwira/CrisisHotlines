@@ -2394,10 +2394,93 @@
 		"country": "Germany",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"110"
+				]
+			},
+			{
+				"name": "krisenchat",
+				"numbers": [
+					"+49 15735998143"
+				]
+			},
+			{
+				"name": "International Helpline Berlin",
+				"numbers": [
+					"030 44 01 06 07"
+				]
+			},
+			{
+				"name": "krisenchat Ukrainian",
+				"numbers": [
+					"+49 15735993126"
+				]
+			},
+			{
+				"name": "TelefonSeelsorge",
+				"numbers": [
+					"0800 111 0 111"
+				]
+			},
+			{
+				"name": "Nummer gegen Kummer e. V. - Kinder- und Jugendtelefon",
+				"numbers": [
+					"116111"
+				]
+			},
+			{
+				"name": "Hilfetelefon \"Gewalt gegen Frauen\"",
+				"numbers": [
+					"116 016"
+				]
+			},
+			{
+				"name": "Guttempler",
+				"numbers": [
+					"0180 365 24 07"
+				]
+			},
+			{
+				"name": "Hilfetelefon Gewalt an Männern",
+				"numbers": [
+					"0800 1239900"
+				]
+			},
+			{
+				"name": "Hilfe-Telefon Sexueller Missbrauch",
+				"numbers": [
+					"0800 22 55 530"
+				]
+			},
+			{
+				"name": "Hilfe-Telefon berta",
+				"numbers": [
+					"0800 30 50 750"
+				]
+			},
+			{
+				"name": "NACOA Online-Consultation",
+				"numbers": [
+					"030 35 12 24 29"
+				]
+			},
+			{
+				"name": "Weisser Ring",
+				"numbers": [
+					"116 006"
+				]
+			},
+			{
+				"name": "Nummer gegen Kummer (Elterntelefon)",
+				"numbers": [
+					"0800 111 0 550"
+				]
+			},
+			{
+				"name": "Muslimisches SeelsorgeTelefon",
+				"numbers": [
+					"030 443 509 821"
 				]
 			}
 		]
