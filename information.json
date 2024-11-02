@@ -2038,10 +2038,87 @@
 		"country": "Finland",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Kriisipuhelin",
+				"numbers": [
+					"09 2525 0111"
+				]
+			},
+			{
+				"name": "Sekasin",
+				"numbers": [
+					"20110"
+				]
+			},
+			{
+				"name": "Crisis Center Monika Helpline",
+				"numbers": [
+					"0800 05058"
+				]
+			},
+			{
+				"name": "Mielenterveyden Keskusliitto, Mental Health Helpline",
+				"numbers": [
+					"0203 91920"
+				]
+			},
+			{
+				"name": "Crisis Helpline",
+				"numbers": [
+					"09 2525 0116"
+				]
+			},
+			{
+				"name": "Kristelefon",
+				"numbers": [
+					"09 2525 0112"
+				]
+			},
+			{
+				"name": "Горячая линия",
+				"numbers": [
+					"09 2525 0115"
+				]
+			},
+			{
+				"name": "Кризова гаряча лінія",
+				"numbers": [
+					"09 2525 0114"
+				]
+			},
+			{
+				"name": "Naisten Linja",
+				"numbers": [
+					"0800 02400"
+				]
+			},
+			{
+				"name": "Nimettömät Narkomaanit",
+				"numbers": [
+					"050 307 7597"
+				]
+			},
+			{
+				"name": "Raiskauskriisikeskus Tukinainen / Rape Crisis Centre Helpline",
+				"numbers": [
+					"0800 97899"
+				]
+			},
+			{
+				"name": "Syömishäiriöliitto Tukipuhelin (SYLI)",
+				"numbers": [
+					"02 251 9207"
+				]
+			},
+			{
+				"name": "Kirkon keskusteluapua",
+				"numbers": [
+					"0400 221 180"
 				]
 			}
 		]
