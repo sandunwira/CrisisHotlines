@@ -1496,10 +1496,39 @@
 		"country": "Croatia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Linija pomoći Plavi telefon",
+				"numbers": [
+					"00385 1 4833 888"
+				]
+			},
+			{
+				"name": "Psihološki centar Tesa (The Psychological Center Tesa) Helpline",
+				"numbers": [
+					"01 48 28 888"
+				]
+			},
+			{
+				"name": "B.a.B.e",
+				"numbers": [
+					"0800 200 144"
+				]
+			},
+			{
+				"name": "Hrabri telefon",
+				"numbers": [
+					"116111"
+				]
+			},
+			{
+				"name": "Centar za nestalu i zlostavljanu djecu Linija za pomoć",
+				"numbers": [
+					"0800 606 606"
 				]
 			}
 		]
