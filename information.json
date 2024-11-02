@@ -732,13 +732,30 @@
 		]
 	},
 	{
-		"country": "Benin (Dahomey)",
+		"country": "Benin",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
+				]
+			},
+			{
+				"name": "Centre d'Accompagnement Psycho-social et Juridique (CAPJ) Benin Helpline for Women & Girls facing Harassment & Violence",
+				"numbers": [
+					"91 47 00 00"
+				]
+			},
+			{
+				"name": "Child Violence & Abuse Helpline Benin (UNICEF Benin)",
+				"numbers": [
+					"138"
+				]
+			},
+			{
+				"name": "L'Association Beninoise pour le Marketing Social et la Communication pour la Sante (ABMS) - Benin Helpline for Family Healthcare",
+				"numbers": [
+					"7344"
 				]
 			}
 		]
