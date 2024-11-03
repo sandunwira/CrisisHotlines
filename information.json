@@ -5867,10 +5867,45 @@
 		"country": "Singapore",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999"
+				]
+			},
+			{
+				"name": "Samaritans of Singapore",
+				"numbers": [
+					"1767"
+				]
+			},
+			{
+				"name": "Tinkle Friend",
+				"numbers": [
+					"1800 2744 788"
+				]
+			},
+			{
+				"name": "Singapore Association for Mental Health (SAMH) Helpline",
+				"numbers": [
+					"1800 283 7019"
+				]
+			},
+			{
+				"name": "Aware Women's Helpline",
+				"numbers": [
+					"1800 777 5555"
+				]
+			},
+			{
+				"name": "Sexual Assault Care Centre (SACC)",
+				"numbers": [
+					"6779 0282"
+				]
+			},
+			{
+				"name": "National Council on Problem Gambling Helpline",
+				"numbers": [
+					"1 800 666 8668"
 				]
 			}
 		]
