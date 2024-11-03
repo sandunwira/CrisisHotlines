@@ -6202,10 +6202,69 @@
 		"country": "Spain",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Fundación ANAR de Ayuda A Niños/as y Adolescentes en Riesgo",
+				"numbers": [
+					"900202010"
+				]
+			},
+			{
+				"name": "Asociación Internacional Teléfono de la Esperanza (ASITES)",
+				"numbers": [
+					"717 003 717"
+				]
+			},
+			{
+				"name": "Samaritans in Spain",
+				"numbers": [
+					"900 525 100"
+				]
+			},
+			{
+				"name": "Psicólogos Sin Fronteras España",
+				"numbers": [
+					"658 712 646"
+				]
+			},
+			{
+				"name": "Psikevirtual",
+				"numbers": [
+					"912907177"
+				]
+			},
+			{
+				"name": "Línea 024",
+				"numbers": [
+					"024"
+				]
+			},
+			{
+				"name": "Teléfono Contra el Suicidio",
+				"numbers": [
+					"911 385 385"
+				]
+			},
+			{
+				"name": "Teléfono De La Mujer Galicia",
+				"numbers": [
+					"900400273"
+				]
+			},
+			{
+				"name": "FAD",
+				"numbers": [
+					"900 16 15 15"
+				]
+			},
+			{
+				"name": "Teléfono 016 - Servicio de atención a todas las formas de violencia contra las mujeres",
+				"numbers": [
+					"016"
 				]
 			}
 		]
