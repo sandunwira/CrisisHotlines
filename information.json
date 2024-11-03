@@ -5223,10 +5223,21 @@
 		"country": "Palestine",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"100"
+				]
+			},
+			{
+				"name": "خط حماية الطفل الفلسطيني - Palestinian Child Protection Line",
+				"numbers": [
+					"1800 500121"
+				]
+			},
+			{
+				"name": "خط مساعدة الخط - Alkhat Helpline",
+				"numbers": [
+					"072 2220202"
 				]
 			}
 		]
