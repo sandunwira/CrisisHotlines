@@ -4576,10 +4576,21 @@
 		"country": "Namibia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"10 111"
+				]
+			},
+			{
+				"name": "ChildLine Namibia",
+				"numbers": [
+					"116"
+				]
+			},
+			{
+				"name": "Lifeline Namibia - Gender Based Violence Helpline",
+				"numbers": [
+					"106"
 				]
 			}
 		]
