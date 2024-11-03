@@ -1,6 +1,8 @@
 # CrisisHotlines
 A list of crisis prevention hotlines
 
+Completed:
+- [x] All Countries
 
-To be added:
+Not Completed:
 - [ ] United States
