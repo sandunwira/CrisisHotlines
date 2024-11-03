@@ -6860,10 +6860,502 @@
 		"country": "United Kingdom",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999",
+					"112"
+				]
+			},
+			{
+				"name": "Shout",
+				"numbers": [
+					"85258"
+				]
+			},
+			{
+				"name": "Samaritans Helpline",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Childline",
+				"numbers": [
+					"0800 1111"
+				]
+			},
+			{
+				"name": "Runaway Helpline",
+				"numbers": [
+					"116 000"
+				]
+			},
+			{
+				"name": "National Suicide Prevention Helpline UK",
+				"numbers": [
+					"0800 689 5652"
+				]
+			},
+			{
+				"name": "SOS Silence of Suicide",
+				"numbers": [
+					"08081151505"
+				]
+			},
+			{
+				"name": "No Panic Youth Helpline",
+				"numbers": [
+					"0300 772 9844"
+				]
+			},
+			{
+				"name": "SANEline",
+				"numbers": [
+					"0300 304 7000"
+				]
+			},
+			{
+				"name": "Moodswings Helpline",
+				"numbers": [
+					"0161 832 37 36"
+				]
+			},
+			{
+				"name": "LGBT Foundation Helpline",
+				"numbers": [
+					"0345 330 3030"
+				]
+			},
+			{
+				"name": "The National Bullying Helpline",
+				"numbers": [
+					"0300 323 0169"
+				]
+			},
+			{
+				"name": "OCD Action Helpline",
+				"numbers": [
+					"0300 636 5478"
+				]
+			},
+			{
+				"name": "HOPELINE247",
+				"numbers": [
+					"0800 068 4141"
+				]
+			},
+			{
+				"name": "CALM Helpline",
+				"numbers": [
+					"0800 58 58 58"
+				]
+			},
+			{
+				"name": "Samaritans - Welsh Language Line",
+				"numbers": [
+					"0808 164 0123"
+				]
+			},
+			{
+				"name": "Nacoa (National Association for Children of Alcoholics)",
+				"numbers": [
+					"0800 358 3456"
+				]
+			},
+			{
+				"name": "MS Helpline",
+				"numbers": [
+					"0808 800 8000"
+				]
+			},
+			{
+				"name": "National Domestic Abuse Helpline",
+				"numbers": [
+					"0808 2000 247"
+				]
+			},
+			{
+				"name": "Alcoholics Anonymous Helpline",
+				"numbers": [
+					"0800 9177 650"
+				]
+			},
+			{
+				"name": "National Gambling Helpline",
+				"numbers": [
+					"0808 8020 133"
+				]
+			},
+			{
+				"name": "Modern Slavery & Exploitation Helpline (Unseen UK)",
+				"numbers": [
+					"08000 121 700"
+				]
+			},
+			{
+				"name": "Self Injury Support",
+				"numbers": [
+					"0808 8008088"
+				]
+			},
+			{
+				"name": "SurvivorsUK Helpline - Web Chat, Text and Email Service",
+				"numbers": [
+					"020 3322 1860"
+				]
+			},
+			{
+				"name": "Sarcoma UK Support Line",
+				"numbers": [
+					"0808 801 0401"
+				]
+			},
+			{
+				"name": "Winston's Wish Helpline",
+				"numbers": [
+					"08088 020 021"
+				]
+			},
+			{
+				"name": "Switchboard LGBT Helpline",
+				"numbers": [
+					"0800 0119 100"
+				]
+			},
+			{
+				"name": "Grief Encounter Support line",
+				"numbers": [
+					"0808 802 0111"
+				]
+			},
+			{
+				"name": "Family Lives Helpline",
+				"numbers": [
+					"0808 800 2222"
+				]
+			},
+			{
+				"name": "Macmillan Support Line",
+				"numbers": [
+					"0808 808 00 00"
+				]
+			},
+			{
+				"name": "Respect Men's Advice Line",
+				"numbers": [
+					"0808 8010327"
+				]
+			},
+			{
+				"name": "Stop It Now Helpline",
+				"numbers": [
+					"0808 1000 900"
+				]
+			},
+			{
+				"name": "MS-UK Helpline",
+				"numbers": [
+					"0800 783 0518"
+				]
+			},
+			{
+				"name": "Respect Phoneline",
+				"numbers": [
+					"0808 802 4040"
+				]
+			},
+			{
+				"name": "Addiction Family Support Helpline",
+				"numbers": [
+					"0300 888 3853"
+				]
+			},
+			{
+				"name": "Child Bereavement UK Helpline",
+				"numbers": [
+					"0800 028 8840"
+				]
+			},
+			{
+				"name": "Marie Curie Support Line",
+				"numbers": [
+					"0800 090 2309"
+				]
+			},
+			{
+				"name": "Blue Cross Pet Loss Support",
+				"numbers": [
+					"0800 096 6606"
+				]
+			},
+			{
+				"name": "Jewish Women's Aid Domestic Abuse and Sexual Violence Helpline",
+				"numbers": [
+					"0808 801 0500"
+				]
+			},
+			{
+				"name": "Pregnancy Loss Helpline",
+				"numbers": [
+					"01924 200799"
+				]
+			},
+			{
+				"name": "Eating Disorders Support Helpline",
+				"numbers": [
+					"01494 793223"
+				]
+			},
+			{
+				"name": "National Sexual Health Helpline",
+				"numbers": [
+					"0300 123 7123"
+				]
+			},
+			{
+				"name": "NAPAC Support Service",
+				"numbers": [
+					"0808 801 0331"
+				]
+			},
+			{
+				"name": "The Men Standing Up Helpline",
+				"numbers": [
+					"0300 303 0167"
+				]
+			},
+			{
+				"name": "Narcotics Anonymous",
+				"numbers": [
+					"0300 999 1212"
+				]
+			},
+			{
+				"name": "The Compassionate Friends",
+				"numbers": [
+					"0345 123 2304"
+				]
+			},
+			{
+				"name": "The Survivors Trust Information, Advice and Support Line",
+				"numbers": [
+					"0808 801 0818"
+				]
+			},
+			{
+				"name": "Al-Anon Family Groups",
+				"numbers": [
+					"0800 0086 811"
+				]
+			},
+			{
+				"name": "Sands National Helpline",
+				"numbers": [
+					"0808 164 3332"
+				]
+			},
+			{
+				"name": "NCT Support Line",
+				"numbers": [
+					"0300 330 0700"
+				]
+			},
+			{
+				"name": "Revenge Porn Helpline",
+				"numbers": [
+					"0345 6000 459"
+				]
+			},
+			{
+				"name": "Abortion Recovery Care & Helpline",
+				"numbers": [
+					"0345 603 8501"
+				]
+			},
+			{
+				"name": "NSPCC FGM Helpline",
+				"numbers": [
+					"0800 028 3550"
+				]
+			},
+			{
+				"name": "Forced Marriage Unit",
+				"numbers": [
+					"020 7008 0151"
+				]
+			},
+			{
+				"name": "Karma Nirvana Helpline",
+				"numbers": [
+					"0800 5999 247"
+				]
+			},
+			{
+				"name": "RoadPeace Helpline",
+				"numbers": [
+					"0800 160 1069"
+				]
+			},
+			{
+				"name": "Suicide&Co Helpline",
+				"numbers": [
+					"0800 054 8400"
+				]
+			},
+			{
+				"name": "Mankind Initiative Helpline",
+				"numbers": [
+					"01823 334244"
+				]
+			},
+			{
+				"name": "THT Direct Helpline",
+				"numbers": [
+					"0808 802 1221"
+				]
+			},
+			{
+				"name": "Survivors of Bereavement Support Line",
+				"numbers": [
+					"0300 111 5065"
+				]
+			},
+			{
+				"name": "RNIB Helpline",
+				"numbers": [
+					"0303 123 9999"
+				]
+			},
+			{
+				"name": "Brain and Spine Helpline",
+				"numbers": [
+					"0808 808 1000"
+				]
+			},
+			{
+				"name": "National Stalking Helpline",
+				"numbers": [
+					"0808 802 0300"
+				]
+			},
+			{
+				"name": "Carers UK Helpline",
+				"numbers": [
+					"0808 808 7777"
+				]
+			},
+			{
+				"name": "LGBT+ Domestic Abuse and Hate Crime Helpline",
+				"numbers": [
+					"0800 999 5428"
+				]
+			},
+			{
+				"name": "Lymphoma Action Helpline Services",
+				"numbers": [
+					"0808 808 5555"
+				]
+			},
+			{
+				"name": "OPOKA Helpline",
+				"numbers": [
+					"0300 3651700"
+				]
+			},
+			{
+				"name": "Blood Cancer UK Support Line",
+				"numbers": [
+					"0808 208 0888"
+				]
+			},
+			{
+				"name": "Child Death Helpline",
+				"numbers": [
+					"0800 282 986"
+				]
+			},
+			{
+				"name": "Combat Stress Helplne",
+				"numbers": [
+					"0800 138 1619"
+				]
+			},
+			{
+				"name": "The Silver Line Helpline",
+				"numbers": [
+					"0800 470 8090"
+				]
+			},
+			{
+				"name": "Hourglass (Safer Ageing) 24/7 Helpline",
+				"numbers": [
+					"0808 808 8141"
+				]
+			},
+			{
+				"name": "Dementia Connect Support Line",
+				"numbers": [
+					"0333 150 3456"
+				]
+			},
+			{
+				"name": "Mermaids",
+				"numbers": [
+					"0808 801 0400"
+				]
+			},
+			{
+				"name": "FamilyLine",
+				"numbers": [
+					"808 802 6666"
+				]
+			},
+			{
+				"name": "The Gingerbread Single Parent Helpline",
+				"numbers": [
+					"0808 802 0925"
+				]
+			},
+			{
+				"name": "Steps Helpline",
+				"numbers": [
+					"01925 750271"
+				]
+			},
+			{
+				"name": "Families Need Fathers Helpline",
+				"numbers": [
+					"0300 0300 363"
+				]
+			},
+			{
+				"name": "NSPCC Helpline",
+				"numbers": [
+					"0808 800 5000"
+				]
+			},
+			{
+				"name": "Muslim Youth Helpline",
+				"numbers": [
+					"0808 808 2008"
+				]
+			},
+			{
+				"name": "Premier Lifeline",
+				"numbers": [
+					"0300 111 0101"
+				]
+			},
+			{
+				"name": "Towards Healing (United Kingdom)",
+				"numbers": [
+					"0800 0963315"
+				]
+			},
+			{
+				"name": "The Dina Support Line",
+				"numbers": [
+					"0808 801 0656"
 				]
 			}
 		]
