@@ -3544,10 +3544,57 @@
 		"country": "Italy",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Telefono Amico Cevita",
+				"numbers": [
+					"+39 02 99777"
+				]
+			},
+			{
+				"name": "Telefono Amico Italia",
+				"numbers": [
+					"02 2327 2327"
+				]
+			},
+			{
+				"name": "Telefono Rosa",
+				"numbers": [
+					"06 37 51 82 82"
+				]
+			},
+			{
+				"name": "Samaritans Onlus",
+				"numbers": [
+					"06 77208977"
+				]
+			},
+			{
+				"name": "Telefono Amico Cassero - Friendly Phone Cassero",
+				"numbers": [
+					"051 555 661"
+				]
+			},
+			{
+				"name": "Numero Anti Violenza E Stalking",
+				"numbers": [
+					"1522"
+				]
+			},
+			{
+				"name": "De Leo Fund Assistenza telefonica",
+				"numbers": [
+					"800 168 678"
+				]
+			},
+			{
+				"name": "Telefono Azzurro",
+				"numbers": [
+					"19696"
 				]
 			}
 		]
