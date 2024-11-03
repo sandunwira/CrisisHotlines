@@ -6342,10 +6342,123 @@
 		"country": "Sweden",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Bris",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Jourhavande Medmanniska Hjalplinje",
+				"numbers": [
+					"08 702 16 80"
+				]
+			},
+			{
+				"name": "Spes - for survivors of suicide loss",
+				"numbers": [
+					"020 18 18 00"
+				]
+			},
+			{
+				"name": "Stödlinjen | Rise Sverige - The support line | Rise Sweden",
+				"numbers": [
+					"08 696 00 95"
+				]
+			},
+			{
+				"name": "Mind Självmordslinjen",
+				"numbers": [
+					"90101"
+				]
+			},
+			{
+				"name": "The Rainbow Line",
+				"numbers": [
+					"0770 55 00 10"
+				]
+			},
+			{
+				"name": "Mansjouren Hjalplinje",
+				"numbers": [
+					"08 30 30 20"
+				]
+			},
+			{
+				"name": "Freezonen Hjalplinje",
+				"numbers": [
+					"0733 30 30 28"
+				]
+			},
+			{
+				"name": "Terrafem Hjälplinje",
+				"numbers": [
+					"020 52 10 10"
+				]
+			},
+			{
+				"name": "Kvinnofridslinjen - Sweden's National Women's Helpline",
+				"numbers": [
+					"020 50 50 50"
+				]
+			},
+			{
+				"name": "Frisk & Fri Eating Disorder Line",
+				"numbers": [
+					"020 20 80 18"
+				]
+			},
+			{
+				"name": "Stödlinjen för spelare och anhöriga - The Swedish national gambling helpline",
+				"numbers": [
+					"020 81 91 00"
+				]
+			},
+			{
+				"name": "Frisk & Fri Eating Disorder Line - Relative Support",
+				"numbers": [
+					"0200 125 085"
+				]
+			},
+			{
+				"name": "Brottsofferjouren",
+				"numbers": [
+					"116 006"
+				]
+			},
+			{
+				"name": "Anonyma Narkomaner",
+				"numbers": [
+					"0771 13 80 00"
+				]
+			},
+			{
+				"name": "Alkohollinjen - The Alcohol Line",
+				"numbers": [
+					"020 84 44 48"
+				]
+			},
+			{
+				"name": "Äldrelinjen",
+				"numbers": [
+					"020 22 22 33"
+				]
+			},
+			{
+				"name": "Jourhavande präst",
+				"numbers": [
+					"112"
+				]
+			},
+			{
+				"name": "SOS-telefonen",
+				"numbers": [
+					"0771 800 650"
 				]
 			}
 		]
