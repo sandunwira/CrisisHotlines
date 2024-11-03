@@ -7427,10 +7427,16 @@
 		"country": "Venezuela",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911",
+					"171"
+				]
+			},
+			{
+				"name": "Línea de Ayuda Psicológica (LAPSI) / Federación de Psicólogos de Venezuela",
+				"numbers": [
+					"0424 2907338"
 				]
 			}
 		]
