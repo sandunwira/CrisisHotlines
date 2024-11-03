@@ -7445,10 +7445,39 @@
 		"country": "Vietnam",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"113"
+				]
+			},
+			{
+				"name": "National Child Helpline",
+				"numbers": [
+					"111"
+				]
+			},
+			{
+				"name": "Ngày mai",
+				"numbers": [
+					"963061414"
+				]
+			},
+			{
+				"name": "Tâm lý NQH",
+				"numbers": [
+					"19006186"
+				]
+			},
+			{
+				"name": "Đường dây nóng hỗ trợ người bị bạo lực giới",
+				"numbers": [
+					"024 3333 5599"
+				]
+			},
+			{
+				"name": "Accompanying Women's Development Support Hotline",
+				"numbers": [
+					"1900969680"
 				]
 			}
 		]
