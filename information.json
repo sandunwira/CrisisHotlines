@@ -2785,6 +2785,155 @@
 		]
 	},
 	{
+		"country": "Hong Kong",
+		"hotlines": [
+			{
+				"name": "Emergency",
+				"numbers": [
+					"999"
+				]
+			},
+			{
+				"name": "Open Up Helpline",
+				"numbers": [
+					"9101 2012"
+				]
+			},
+			{
+				"name": "24小时预防自杀热线服务24-hour Suicide Prevention Hotline Service",
+				"numbers": [
+					"852 2382 0000"
+				]
+			},
+			{
+				"name": "香港撒瑪利亞防止自殺會 24 小時情緒支援熱線（廣東話）The Samaritan Befrienders Hong Kong 24-Hour Emotional Support Hotline (Cantonese)",
+				"numbers": [
+					"+852 2389 2222"
+				]
+			},
+			{
+				"name": "撒瑪利亞會 The Samaritans, 24 Hour Multi-Lingual Suicide Prevention Services",
+				"numbers": [
+					"2896 0000"
+				]
+			},
+			{
+				"name": "向晴热线Caritas-Hong Kong Family Crisis Support Centre Crisis Hotline",
+				"numbers": [
+					"18288"
+				]
+			},
+			{
+				"name": "财困压力辅导专线Financial Stress Counselling Hotline",
+				"numbers": [
+					"31610102"
+				]
+			},
+			{
+				"name": "English Emotional Support Hotline",
+				"numbers": [
+					"2389 2223"
+				]
+			},
+			{
+				"name": "青少年生命专线Youth Link",
+				"numbers": [
+					"23820777"
+				]
+			},
+			{
+				"name": "自杀者亲友支援计划Services for Survivors of Suicide Loss",
+				"numbers": [
+					"23822737"
+				]
+			},
+			{
+				"name": "和諧之家24小時婦女求助熱線 / Harmony House 24-hour Woman Hotline",
+				"numbers": [
+					"2522 0434"
+				]
+			},
+			{
+				"name": "婦女求助熱線 Women's Helpline",
+				"numbers": [
+					"23866255"
+				]
+			},
+			{
+				"name": "和諧之家 MAN(男士)熱線 / Harmony House MAN Hotline",
+				"numbers": [
+					"2295 1386"
+				]
+			},
+			{
+				"name": "亲友自杀危机咨询专线Suicide Crisis Consultation Helpline for Family Members and Friends",
+				"numbers": [
+					"852 23191177"
+				]
+			},
+			{
+				"name": "协青社24小时热线服务24 Hours Hotline of Youth Outreach",
+				"numbers": [
+					"90881023"
+				]
+			},
+			{
+				"name": "Caritas Infinity Teens",
+				"numbers": [
+					"93773666"
+				]
+			},
+			{
+				"name": "RainLily Sexual Violence Helpline 風雨蘭性暴力求助熱線",
+				"numbers": [
+					"23755322"
+				]
+			},
+			{
+				"name": "芷若园24小时危机热线24 Hours Crisis Hotline",
+				"numbers": [
+					"18281"
+				]
+			},
+			{
+				"name": "妇女庇护中心24小时热线24 Hours Hotline",
+				"numbers": [
+					"81001155"
+				]
+			},
+			{
+				"name": "Against Child Abuse Hotline",
+				"numbers": [
+					"2755 1122"
+				]
+			},
+			{
+				"name": "戒赌热线Gambling Counselling Hotline",
+				"numbers": [
+					"1834 633"
+				]
+			},
+			{
+				"name": "珍爱生命长者热线Hotline for Elderly",
+				"numbers": [
+					"23820881"
+				]
+			},
+			{
+				"name": "预防长者自杀服务Suicide Prevention Services for the Elderly",
+				"numbers": [
+					"23822007"
+				]
+			},
+			{
+				"name": "和諧之家小白兒童熱線 / Harmony House Children Hotline",
+				"numbers": [
+					"2751 8822"
+				]
+			}
+		]
+	},
+	{
 		"country": "Hungary",
 		"hotlines": [
 			{
