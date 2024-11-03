@@ -5263,10 +5263,15 @@
 		"country": "Papua New Guinea",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "1-Tok Kaunselin Helpim Lain",
+				"numbers": [
+					"7150 8000"
 				]
 			}
 		]
