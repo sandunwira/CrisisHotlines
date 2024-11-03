@@ -5159,10 +5159,51 @@
 		"country": "Pakistan",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"15"
+				]
+			},
+			{
+				"name": "Rozan Counseling Helpline",
+				"numbers": [
+					"0304 111 1741"
+				]
+			},
+			{
+				"name": "Umang",
+				"numbers": [
+					"92 0311 7786264"
+				]
+			},
+			{
+				"name": "Child Helpline, Child Protection and Welfare Bureau",
+				"numbers": [
+					"1121"
+				]
+			},
+			{
+				"name": "Bolo Helpline KPK",
+				"numbers": [
+					"0800 22227"
+				]
+			},
+			{
+				"name": "Bedari Helpline",
+				"numbers": [
+					"0300 5251717"
+				]
+			},
+			{
+				"name": "Punjab Women's Toll-Free Helpline 1043",
+				"numbers": [
+					"1043"
+				]
+			},
+			{
+				"name": "Digital Rights Foundation Cyber Harassment Helpline for Women",
+				"numbers": [
+					"0800 39393"
 				]
 			}
 		]
