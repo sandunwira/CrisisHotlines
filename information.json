@@ -6773,10 +6773,27 @@
 		"country": "Uganda",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Mental Health Uganda",
+				"numbers": [
+					"0800 21 21 21"
+				]
+			},
+			{
+				"name": "FIDA Uganda",
+				"numbers": [
+					"080 011 1511"
+				]
+			},
+			{
+				"name": "Totya Platform Hotline",
+				"numbers": [
+					"0800 220 630"
 				]
 			}
 		]
