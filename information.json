@@ -2671,10 +2671,27 @@
 		"country": "Guyana",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "914 Hotline",
+				"numbers": [
+					"914"
+				]
+			},
+			{
+				"name": "Inter-agency Suicide Prevention Help Line",
+				"numbers": [
+					"592 600 7896"
+				]
+			},
+			{
+				"name": "Counter-Trafficking in Persons Hotline",
+				"numbers": [
+					"227 4083"
 				]
 			}
 		]
