@@ -3645,10 +3645,75 @@
 		"country": "Japan",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"110"
+				]
+			},
+			{
+				"name": "TELL Lifeline",
+				"numbers": [
+					"0800 300 8355"
+				]
+			},
+			{
+				"name": "チャイルドライン (ChildLine)",
+				"numbers": [
+					"012 099 7777"
+				]
+			},
+			{
+				"name": "よりそいホットライン (Yorisoi Hotline)",
+				"numbers": [
+					"0120 279 338"
+				]
+			},
+			{
+				"name": "Child SOS consultation Counter",
+				"numbers": [
+					"0120078310"
+				]
+			},
+			{
+				"name": "＃いのちSOS",
+				"numbers": [
+					"0120 061 338"
+				]
+			},
+			{
+				"name": "性犯罪・性暴力被害者のためのワンストップ支援センター",
+				"numbers": [
+					"#8891"
+				]
+			},
+			{
+				"name": "配偶者暴力相談支援センター",
+				"numbers": [
+					"#8008"
+				]
+			},
+			{
+				"name": "DV相談プラス / Domestic Violence Hotline Plus",
+				"numbers": [
+					"0120 279 889"
+				]
+			},
+			{
+				"name": "女性の人権ホットライン - Women's Human Rights Hotline",
+				"numbers": [
+					"0570 070 810"
+				]
+			},
+			{
+				"name": "女性ネットさやさや - Saya-Saya Helpline",
+				"numbers": [
+					"03 6807 8442"
+				]
+			},
+			{
+				"name": "Linha De Apoio À Mulher No Japao (LAM) - Women's Support Line (LAM)",
+				"numbers": [
+					"050 6861 3001"
 				]
 			}
 		]
