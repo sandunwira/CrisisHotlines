@@ -3199,10 +3199,33 @@
 		"country": "Indonesia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "SEJIWA (Layanan Psikologi untuk Sehat Jiwa)",
+				"numbers": [
+					"119"
+				]
+			},
+			{
+				"name": "TePSA - Telepon Pelayanan Sosial Anak",
+				"numbers": [
+					"1500771"
+				]
+			},
+			{
+				"name": "SAPA Service 129 - Ministry of Women Empowerment and Children Protection",
+				"numbers": [
+					"08111 129 129"
+				]
+			},
+			{
+				"name": "Kementerian Kesehatan",
+				"numbers": [
+					"500 454"
 				]
 			}
 		]
