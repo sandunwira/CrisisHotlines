@@ -4403,10 +4403,57 @@
 		"country": "Mexico",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Línea De La Vida",
+				"numbers": [
+					"800 911 2000"
+				]
+			},
+			{
+				"name": "SAPTEL",
+				"numbers": [
+					"555 259 8121"
+				]
+			},
+			{
+				"name": "Consejo Ciudadano Para La Seguridad Y Justicia de Ciudad de México",
+				"numbers": [
+					"55 5533 5533"
+				]
+			},
+			{
+				"name": "Vita-Activa.Org",
+				"numbers": [
+					"+52155 81711117"
+				]
+			},
+			{
+				"name": "Comenzar de Nuevo",
+				"numbers": [
+					"+51 81 1340 0275"
+				]
+			},
+			{
+				"name": "Atención Psicológica A Distancia UNAM",
+				"numbers": [
+					"+52 55 5025 0855"
+				]
+			},
+			{
+				"name": "Oceánica Helpline",
+				"numbers": [
+					"55 8854 7141"
+				]
+			},
+			{
+				"name": "Red Nacional de Refugios (RNR) Línea de ayuda - National Shelter Network Helpline",
+				"numbers": [
+					"800 822 4460"
 				]
 			}
 		]
