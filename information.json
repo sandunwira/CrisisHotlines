@@ -5728,10 +5728,11 @@
 		"country": "Saint Vincent and the Grenadines",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999",
+					"911",
+					"112"
 				]
 			}
 		]
