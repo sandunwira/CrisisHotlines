@@ -5373,10 +5373,160 @@
 		"country": "Poland",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"997",
+					"112"
+				]
+			},
+			{
+				"name": "krisenchat Ukrainian",
+				"numbers": [
+					"+49 15735993126"
+				]
+			},
+			{
+				"name": "Telefon Zaufania dla dzieci i młodzieży",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Telefon i czat zaufania dla dzieci i młodzieży Towarzystwa Przyjaciół Dzieci",
+				"numbers": [
+					"800 119 119"
+				]
+			},
+			{
+				"name": "Telefon zaufania dla mężczyzn / Helpline For Men",
+				"numbers": [
+					"+48 608 271 402"
+				]
+			},
+			{
+				"name": "Centrum Wsparcia",
+				"numbers": [
+					"800 70 2222"
+				]
+			},
+			{
+				"name": "116sos.pl",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Telefon Zaufania uzależnienia behawioralne",
+				"numbers": [
+					"801 889 880"
+				]
+			},
+			{
+				"name": "Olsztyńskie Stowarzyszenie Pomocy Telefoniczej (Olsztyn Telephone Emergency Help Association)",
+				"numbers": [
+					"+48 89 527 00 00"
+				]
+			},
+			{
+				"name": "Anonimowy Przyjaciel (Anonymous friend)",
+				"numbers": [
+					"895270000"
+				]
+			},
+			{
+				"name": "Dziecięcy telefon zaufania Rzecznika Praw Dziecka",
+				"numbers": [
+					"800 12 12 12"
+				]
+			},
+			{
+				"name": "Antydepresyjny Telefon Zaufania",
+				"numbers": [
+					"224848801"
+				]
+			},
+			{
+				"name": "TelefonPogadania.pl",
+				"numbers": [
+					"800 012 005"
+				]
+			},
+			{
+				"name": "Women's Rights Center (Centrum Praw Kobiet)",
+				"numbers": [
+					"600 070 717"
+				]
+			},
+			{
+				"name": "Ogólnopolskie Pogotowie dla Ofiar Przemocy w Rodzinie „Niebieska Linia” (Polish National Hotline for Victims of Domestic Violence “Blue Line”)",
+				"numbers": [
+					"800 120 002"
+				]
+			},
+			{
+				"name": "Telefon Dla Kobiet Doświadczających Przemocy - Hotline for Women Experiencing Violence",
+				"numbers": [
+					"888 88 33 88"
+				]
+			},
+			{
+				"name": "Ogólnopolski Telefon Zaufania Uzależnienia / National Addiction Helpline",
+				"numbers": [
+					"800 199 990"
+				]
+			},
+			{
+				"name": "Telefon wsparcia dla osób w żałobie i po stracie",
+				"numbers": [
+					"800 108 108"
+				]
+			},
+			{
+				"name": "Телефон для жінок, які зазнають насильства - Hotline for abused women",
+				"numbers": [
+					"+48 888 88 79 88"
+				]
+			},
+			{
+				"name": "Poradnia Telefoniczna \"Niebieskiej Linii\" / \"Blue Line\" Telephone Counselling Center",
+				"numbers": [
+					"22 668 70 00"
+				]
+			},
+			{
+				"name": "Infolinia dla osób starszych",
+				"numbers": [
+					"22 635 09 54"
+				]
+			},
+			{
+				"name": "Fundacja Zobacz...JESTEM",
+				"numbers": [
+					"+48 883 336 883"
+				]
+			},
+			{
+				"name": "telefon dla rodziców i nauczycieli w sprawie bezpieczeństwa dzieci",
+				"numbers": [
+					"800 100 100"
+				]
+			},
+			{
+				"name": "Fundacja Słonie na Balkonie",
+				"numbers": [
+					"800 800 602"
+				]
+			},
+			{
+				"name": "Lambda Warszawa Telefon Zaufania LGBTQ+",
+				"numbers": [
+					"+48 22 628 52 22"
+				]
+			},
+			{
+				"name": "Tumbo Pomaga",
+				"numbers": [
+					"800 111 123"
 				]
 			}
 		]
