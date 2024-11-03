@@ -3828,10 +3828,15 @@
 		"country": "Kuwait",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "خط مساعدة الطفل 147 / Child Helpline 147",
+				"numbers": [
+					"147"
 				]
 			}
 		]
