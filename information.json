@@ -5646,10 +5646,40 @@
 		"country": "Russia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"102",
+					"112"
+				]
+			},
+			{
+				"name": "Экстренной психологической помощи МЧС России - Emergency Psychological Assistance EMERCOM of Russia",
+				"numbers": [
+					"495 989 50 50"
+				]
+			},
+			{
+				"name": "Детский телефон доверия / Children's Helpline",
+				"numbers": [
+					"8 800 2000 122"
+				]
+			},
+			{
+				"name": "Телефон доверия Суицид Областная больница № 20",
+				"numbers": [
+					"8 800 220 8000"
+				]
+			},
+			{
+				"name": "Кризисный Центр для Женщин (Crisis Center for Women)",
+				"numbers": [
+					"812 327 30 00"
+				]
+			},
+			{
+				"name": "Горячая линия Центра сестер / Sisters Center Helpline",
+				"numbers": [
+					"499 901 02 01"
 				]
 			}
 		]
