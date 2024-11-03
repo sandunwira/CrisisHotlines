@@ -2668,6 +2668,60 @@
 		]
 	},
 	{
+		"country": "Guernsey",
+		"hotlines": [
+			{
+				"name": "Emergency",
+				"numbers": [
+					"112",
+					"999"
+				]
+			},
+			{
+				"name": "Samaritans Guernsey",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Childline Guernsey",
+				"numbers": [
+					"0800 1111"
+				]
+			},
+			{
+				"name": "Headway Guernsey HELPLINE",
+				"numbers": [
+					"01481 252589"
+				]
+			},
+			{
+				"name": "THT Direct Helpline",
+				"numbers": [
+					"0808 802 1221"
+				]
+			},
+			{
+				"name": "Guernsey Bereavement Service",
+				"numbers": [
+					"01481 257778"
+				]
+			},
+			{
+				"name": "Guernsey's Women's Refuge Helpline",
+				"numbers": [
+					"01481 721999"
+				]
+			},
+			{
+				"name": "Safer Guernsey",
+				"numbers": [
+					"01481 721999"
+				]
+			}
+		]
+	},
+	{
 		"country": "Guyana",
 		"hotlines": [
 			{
