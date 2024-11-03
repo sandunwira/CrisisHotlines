@@ -6802,10 +6802,33 @@
 		"country": "Ukraine",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"102"
+				]
+			},
+			{
+				"name": "krisenchat Ukrainian",
+				"numbers": [
+					"+49 15735993126"
+				]
+			},
+			{
+				"name": "Національна гаряча лінія для дітей та молоді - National Toll-Free Hot Line for Children and Youth",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Національна гаряча лінія з попередження домашнього насильства, торгівлі людьми та гендерної дискримінації",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Lifeline Ukraine",
+				"numbers": [
+					"7333"
 				]
 			}
 		]
