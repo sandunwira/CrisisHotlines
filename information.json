@@ -3234,10 +3234,21 @@
 		"country": "Iran",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"110"
+				]
+			},
+			{
+				"name": "صدای یارا - Yara's Voice",
+				"numbers": [
+					"42152"
+				]
+			},
+			{
+				"name": "Iran Dementia and Alzheimer's Association",
+				"numbers": [
+					"021 44645510"
 				]
 			}
 		]
