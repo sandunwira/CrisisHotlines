@@ -4953,10 +4953,57 @@
 		"country": "Nigeria",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Mentally Aware Nigeria Initiative (MANI)",
+				"numbers": [
+					"809 111 6264"
+				]
+			},
+			{
+				"name": "SURPIN Helpline Nigeria",
+				"numbers": [
+					"080 0078 7746"
+				]
+			},
+			{
+				"name": "Women Safe House 24 Hour Crisis Hotline",
+				"numbers": [
+					"+2348121133399"
+				]
+			},
+			{
+				"name": "Human Development Initiative",
+				"numbers": [
+					"0808 0551 376"
+				]
+			},
+			{
+				"name": "Child Help-Line",
+				"numbers": [
+					"0808 0551 376"
+				]
+			},
+			{
+				"name": "Asido Foundation",
+				"numbers": [
+					"+2349028080416"
+				]
+			},
+			{
+				"name": "HerStoryOurStoryNG",
+				"numbers": [
+					"0806 429 2526"
+				]
+			},
+			{
+				"name": "The Cece Yara 24 Hour Child Helpline",
+				"numbers": [
+					"0800 800 8001"
 				]
 			}
 		]
