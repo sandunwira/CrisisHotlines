@@ -5047,10 +5047,93 @@
 		"country": "Norway",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Alarmtelefonen for barn og unge",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Mental Helse Hjelpetelefonen",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Kirkens SOS",
+				"numbers": [
+					"22 40 00 40"
+				]
+			},
+			{
+				"name": "Alltidhjelp.no",
+				"numbers": [
+					"02356"
+				]
+			},
+			{
+				"name": "Kors På Halsen",
+				"numbers": [
+					"800 333 21"
+				]
+			},
+			{
+				"name": "Hjelpetelefonen for seksuelt misbrukte",
+				"numbers": [
+					"800 57 000"
+				]
+			},
+			{
+				"name": "Skeiv Ungdom LGBTQ: Ungdomstelefonen Helpline",
+				"numbers": [
+					"400 00 777"
+				]
+			},
+			{
+				"name": "Mannstelefonen",
+				"numbers": [
+					"22 34 09 60"
+				]
+			},
+			{
+				"name": "Studenttelefonen",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "VO-linjen",
+				"numbers": [
+					"115 006"
+				]
+			},
+			{
+				"name": "Rusinfo Substance Abuse: Rustelefonen.no Helpline",
+				"numbers": [
+					"915 08 588"
+				]
+			},
+			{
+				"name": "Arbeidslivstelefonen",
+				"numbers": [
+					"225 66 700"
+				]
+			},
+			{
+				"name": "Rådgivning om spiseforstyrrelser (ROS) Hjelpelinje",
+				"numbers": [
+					"948 17 818"
+				]
+			},
+			{
+				"name": "Foreldresupport",
+				"numbers": [
+					"116 123"
 				]
 			}
 		]
