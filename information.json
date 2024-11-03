@@ -5611,10 +5611,33 @@
 		"country": "Romania",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "DepreHUB",
+				"numbers": [
+					"0374 456 420"
+				]
+			},
+			{
+				"name": "TelVerde Antisuicid",
+				"numbers": [
+					"0800 801 200"
+				]
+			},
+			{
+				"name": "HELPLINE cu număr unic la nivel național destinat victimelor violenței domestice, discriminării pe criteriul de sex și traficului de persoane 0800.500.333",
+				"numbers": [
+					"0800 500 333"
+				]
+			},
+			{
+				"name": "Telefonul Copilului",
+				"numbers": [
+					"116 111"
 				]
 			}
 		]
