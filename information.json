@@ -4728,10 +4728,195 @@
 		"country": "New Zealand",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"111"
+				]
+			},
+			{
+				"name": "Youthline",
+				"numbers": [
+					"0800 376 633"
+				]
+			},
+			{
+				"name": "1737 Need to talk?",
+				"numbers": [
+					"1737"
+				]
+			},
+			{
+				"name": "Lifeline Aotearoa",
+				"numbers": [
+					"0800 543 354"
+				]
+			},
+			{
+				"name": "Depression Helpline",
+				"numbers": [
+					"0800 111 757"
+				]
+			},
+			{
+				"name": "Samaritans Aotearoa",
+				"numbers": [
+					"0800 726 666"
+				]
+			},
+			{
+				"name": "MusicHelps",
+				"numbers": [
+					"0508 687 424 3577"
+				]
+			},
+			{
+				"name": "0800 What's Up",
+				"numbers": [
+					"0800 942 8787"
+				]
+			},
+			{
+				"name": "Rural Support Trusts",
+				"numbers": [
+					"0800 787 254"
+				]
+			},
+			{
+				"name": "Suicide Crisis Helpline- Tautoko",
+				"numbers": [
+					"0508 828 865"
+				]
+			},
+			{
+				"name": "Manaaki Tāngata | Victim Support",
+				"numbers": [
+					"0800 842 846"
+				]
+			},
+			{
+				"name": "0800 ANXIETY Helpline",
+				"numbers": [
+					"0800 269 438"
+				]
+			},
+			{
+				"name": "Asian Family Services",
+				"numbers": [
+					"0800 862 342"
+				]
+			},
+			{
+				"name": "Ola Lelei Pacific Helpline",
+				"numbers": [
+					"0800 652 535"
+				]
+			},
+			{
+				"name": "Prostate Cancer Foundation NZ",
+				"numbers": [
+					"0800 477 678"
+				]
+			},
+			{
+				"name": "Safe to talk - Sexual harm helpline",
+				"numbers": [
+					"0800 044 334"
+				]
+			},
+			{
+				"name": "Alcohol & Drug Helpline",
+				"numbers": [
+					"0800 787 797"
+				]
+			},
+			{
+				"name": "Quitline",
+				"numbers": [
+					"0800 778 778"
+				]
+			},
+			{
+				"name": "Gambling Helpline",
+				"numbers": [
+					"0800 654 655"
+				]
+			},
+			{
+				"name": "Shine",
+				"numbers": [
+					"0508 744 633"
+				]
+			},
+			{
+				"name": "Women's Refuge",
+				"numbers": [
+					"0800 733 843"
+				]
+			},
+			{
+				"name": "Māori Gambling Helpline",
+				"numbers": [
+					"0800 654 656"
+				]
+			},
+			{
+				"name": "Vai Lelei Pasifika Gambling Helpline",
+				"numbers": [
+					"0800 654 657"
+				]
+			},
+			{
+				"name": "Family Violence Information Line (are you ok?)",
+				"numbers": [
+					"0800 456 450"
+				]
+			},
+			{
+				"name": "Te Puna Oranga 24 hour Phone Manaaki",
+				"numbers": [
+					"0800 222 042"
+				]
+			},
+			{
+				"name": "Shakti Crisisline",
+				"numbers": [
+					"0800 742 584"
+				]
+			},
+			{
+				"name": "Oranga Tamariki (Ministry for Children) Helpline",
+				"numbers": [
+					"0508 326 459"
+				]
+			},
+			{
+				"name": "OutLine",
+				"numbers": [
+					"0800 688 5463"
+				]
+			},
+			{
+				"name": "Problem Gambling Foundation - PGF Services",
+				"numbers": [
+					"0800 664 262"
+				]
+			},
+			{
+				"name": "Vagus Centre",
+				"numbers": [
+					"0800 567 6666"
+				]
+			},
+			{
+				"name": "Elder Abuse Response Service",
+				"numbers": [
+					"0800 32 668 65"
+				]
+			},
+			{
+				"name": "Parent Help",
+				"numbers": [
+					"0800 568 856"
 				]
 			}
 		]
