@@ -6513,10 +6513,39 @@
 		"country": "Taiwan",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"110"
+				]
+			},
+			{
+				"name": "Taiwan LGBTQ+ Hotline",
+				"numbers": [
+					"02 2392 1970"
+				]
+			},
+			{
+				"name": "国际生命线台湾总会 (International Lifeline Taiwan Association)",
+				"numbers": [
+					"1995"
+				]
+			},
+			{
+				"name": "1925安心專線（依舊愛我 / 1925 Peace of Mind Line (Still Love Me)",
+				"numbers": [
+					"1925"
+				]
+			},
+			{
+				"name": "「張老師」服務 / \"Teacher Zhang\" Service Helpline",
+				"numbers": [
+					"1980"
+				]
+			},
+			{
+				"name": "113 Protection Hotline",
+				"numbers": [
+					"113"
 				]
 			}
 		]
