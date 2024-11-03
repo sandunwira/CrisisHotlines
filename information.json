@@ -2632,10 +2632,9 @@
 		"country": "Guinea",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
 				]
 			}
 		]
