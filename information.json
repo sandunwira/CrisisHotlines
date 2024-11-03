@@ -4639,10 +4639,87 @@
 		"country": "Netherlands",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "de Luisterlijn",
+				"numbers": [
+					"088 0767 000"
+				]
+			},
+			{
+				"name": "113 Zelfmoordpreventie",
+				"numbers": [
+					"0800 0113"
+				]
+			},
+			{
+				"name": "De Kindertelefoon",
+				"numbers": [
+					"0800 0432"
+				]
+			},
+			{
+				"name": "MIND Korrelatie",
+				"numbers": [
+					"0900 1450"
+				]
+			},
+			{
+				"name": "Alles oké? Supportlijn",
+				"numbers": [
+					"0800 0450"
+				]
+			},
+			{
+				"name": "Switchboard Helpline",
+				"numbers": [
+					"020 6236565"
+				]
+			},
+			{
+				"name": "Blijf Groep",
+				"numbers": [
+					"0882342450"
+				]
+			},
+			{
+				"name": "Centrum Seksueel Geweld",
+				"numbers": [
+					"0800 0188"
+				]
+			},
+			{
+				"name": "Slachtofferhulp Nederland",
+				"numbers": [
+					"0900 0101"
+				]
+			},
+			{
+				"name": "Veilig Thuis - Safe at Home",
+				"numbers": [
+					"0800 2000"
+				]
+			},
+			{
+				"name": "Veteranenloket",
+				"numbers": [
+					"088 334 00 00"
+				]
+			},
+			{
+				"name": "De Oudertelefoon",
+				"numbers": [
+					"+31 85 130 46 58"
+				]
+			},
+			{
+				"name": "Genderpraatjes Hulplijn - Gendertalks Helpline",
+				"numbers": [
+					"085 303 7680"
 				]
 			}
 		]
