@@ -2771,10 +2771,15 @@
 		"country": "Honduras",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Asociación Hondureña del Teléfono de la Esperanza",
+				"numbers": [
+					"150"
 				]
 			}
 		]
