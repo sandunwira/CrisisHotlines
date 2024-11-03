@@ -5780,10 +5780,15 @@
 		"country": "Saudi Arabia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "National Center for Mental Health Promotion",
+				"numbers": [
+					"920033360"
 				]
 			}
 		]
