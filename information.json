@@ -6646,10 +6646,15 @@
 		"country": "Tonga",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Women and Children Crisis Centre (WCCC) Tonga",
+				"numbers": [
+					"0800444"
 				]
 			}
 		]
