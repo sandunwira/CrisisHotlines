@@ -6273,10 +6273,39 @@
 		"country": "Sri Lanka",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"119"
+				]
+			},
+			{
+				"name": "1926 - National Mental Health Helpline",
+				"numbers": [
+					"1926"
+				]
+			},
+			{
+				"name": "සීසීසීලයින් 1333 / CCCline1333",
+				"numbers": [
+					"1333"
+				]
+			},
+			{
+				"name": "Lanka Life Line 1375",
+				"numbers": [
+					"1375"
+				]
+			},
+			{
+				"name": "Sri Lanka Sumithrayo",
+				"numbers": [
+					"+94 707 308 308"
+				]
+			},
+			{
+				"name": "Women In Need Helpline",
+				"numbers": [
+					"077 567 65 55"
 				]
 			}
 		]
