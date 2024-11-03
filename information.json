@@ -6837,10 +6837,21 @@
 		"country": "United Arab Emirates",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999"
+				]
+			},
+			{
+				"name": "Mental Support Line",
+				"numbers": [
+					"8004673"
+				]
+			},
+			{
+				"name": "Child Helpline 800 700",
+				"numbers": [
+					"800 700"
 				]
 			}
 		]
