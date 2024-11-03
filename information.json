@@ -3902,10 +3902,34 @@
 		"country": "Lebanon",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999",
+					"112"
+				]
+			},
+			{
+				"name": "The Lifeline 1564",
+				"numbers": [
+					"1564"
+				]
+			},
+			{
+				"name": "مركز الدار الآمن للنساء والفتيات - Al Dar Women and Girls Safe Shelter Line",
+				"numbers": [
+					"+961 76 06 06 02"
+				]
+			},
+			{
+				"name": "مركز الرجال - Men Centre Helpline",
+				"numbers": [
+					"+961 71 28 38 20"
+				]
+			},
+			{
+				"name": "الخط الآمن للطوارئ (٧/٢٤) - Emergency Safe Line (24/7)",
+				"numbers": [
+					"+961 81 78 81 78"
 				]
 			}
 		]
