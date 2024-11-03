@@ -4351,10 +4351,15 @@
 		"country": "Mauritania",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
+				]
+			},
+			{
+				"name": "LATEF - Ligne d'Assistance Telephonique aux Enfants et aux Femmes",
+				"numbers": [
+					"1013"
 				]
 			}
 		]
