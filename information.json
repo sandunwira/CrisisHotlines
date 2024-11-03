@@ -5246,10 +5246,15 @@
 		"country": "Panama",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "Tía Elaine Helpline",
+				"numbers": [
+					"6378 3466"
 				]
 			}
 		]
