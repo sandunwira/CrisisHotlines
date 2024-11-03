@@ -3873,10 +3873,27 @@
 		"country": "Latvia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "24/7 krīzes tālrunis",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Centrs MARTA",
+				"numbers": [
+					"67378539"
+				]
+			},
+			{
+				"name": "Child Helpline 116111",
+				"numbers": [
+					"116 111"
 				]
 			}
 		]
