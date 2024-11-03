@@ -4368,10 +4368,33 @@
 		"country": "Mauritius",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "SOS Femmes Mauritius (Helpline for Women)",
+				"numbers": [
+					"233 3054"
+				]
+			},
+			{
+				"name": "Passerelle Women Centre Hotline (Women's Protection & Shelter Centre)",
+				"numbers": [
+					"5882 1000"
+				]
+			},
+			{
+				"name": "PILS (Prevention Information Lutte contre le SIDA)- 8999 Helpline for HIV/AIDS support",
+				"numbers": [
+					"8999"
+				]
+			},
+			{
+				"name": "Alzheimer Association Mauritius Hotline",
+				"numbers": [
+					"800 1111"
 				]
 			}
 		]
