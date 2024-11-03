@@ -6663,10 +6663,40 @@
 		"country": "Trinidad and Tobago",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999",
+					"911"
+				]
+			},
+			{
+				"name": "Lifeline",
+				"numbers": [
+					"800 5588"
+				]
+			},
+			{
+				"name": "Childline",
+				"numbers": [
+					"800 4321"
+				]
+			},
+			{
+				"name": "Families in Action",
+				"numbers": [
+					"868 628 2333"
+				]
+			},
+			{
+				"name": "GROOTS Trinidad & Tobago",
+				"numbers": [
+					"868 384 4722"
+				]
+			},
+			{
+				"name": "RN Vincent & Associates",
+				"numbers": [
+					"868 486 0708"
 				]
 			}
 		]
