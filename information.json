@@ -4176,10 +4176,105 @@
 		"country": "Malaysia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"999"
+				]
+			},
+			{
+				"name": "Befrienders Kuala Lumpur",
+				"numbers": [
+					"0376272929"
+				]
+			},
+			{
+				"name": "MIASA Crisis Helpline",
+				"numbers": [
+					"1 800 18 0066"
+				]
+			},
+			{
+				"name": "Pertubuhan Kebajikan Sneham Malaysia (Sneham Welfare Organisation Malaysia)",
+				"numbers": [
+					"1 800 22 5757"
+				]
+			},
+			{
+				"name": "TALIAN HEAL (Help With Empathy And Love) 15555",
+				"numbers": [
+					"15555"
+				]
+			},
+			{
+				"name": "Malaysian Mental Health Association (MMHA)",
+				"numbers": [
+					"03 2780 6803"
+				]
+			},
+			{
+				"name": "PT Foundation's Peer Listening Helpline",
+				"numbers": [
+					"03 27876005"
+				]
+			},
+			{
+				"name": "P.S. The Children Hotline",
+				"numbers": [
+					"016 7213065"
+				]
+			},
+			{
+				"name": "Talian Kasih 15999 Hotline",
+				"numbers": [
+					"15999"
+				]
+			},
+			{
+				"name": "Buddy Bear Childline",
+				"numbers": [
+					"1800182327"
+				]
+			},
+			{
+				"name": "Telenita Helpline",
+				"numbers": [
+					"016 237 4221"
+				]
+			},
+			{
+				"name": "Gem Helpline",
+				"numbers": [
+					"+60 11 2528 9610"
+				]
+			},
+			{
+				"name": "Narcotics Anonymous Malaysia",
+				"numbers": [
+					"+60 11 1511 4022"
+				]
+			},
+			{
+				"name": "WAO (Women's Aid Organisation)",
+				"numbers": [
+					"+603 3000 8858"
+				]
+			},
+			{
+				"name": "LEV8 Peer-to-peer Helpline",
+				"numbers": [
+					"0192760313"
+				]
+			},
+			{
+				"name": "WCC Penang",
+				"numbers": [
+					"011 3108 4001"
+				]
+			},
+			{
+				"name": "Pusat Perkhidmatan Wanita (PPW)",
+				"numbers": [
+					"016 439 0698"
 				]
 			}
 		]
