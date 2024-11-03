@@ -3722,10 +3722,21 @@
 		"country": "Jordan",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "JCPA Hotline",
+				"numbers": [
+					"962 7 9544 0416"
+				]
+			},
+			{
+				"name": "110 for Families and Children",
+				"numbers": [
+					"110"
 				]
 			}
 		]
