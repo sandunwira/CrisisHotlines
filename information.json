@@ -4283,10 +4283,21 @@
 		"country": "Maldives",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"119"
+				]
+			},
+			{
+				"name": "Psychological First Aid Helpline",
+				"numbers": [
+					"1484"
+				]
+			},
+			{
+				"name": "ޗައިލްޑް ހެލްޕް ލައިން 1412 / Child Help Line 1412",
+				"numbers": [
+					"1412"
 				]
 			}
 		]
