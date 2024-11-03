@@ -6467,10 +6467,33 @@
 		"country": "Switzerland",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
+				]
+			},
+			{
+				"name": "147.ch",
+				"numbers": [
+					"147"
+				]
+			},
+			{
+				"name": "Verband Tel 143 - Die Dargebotene Hand",
+				"numbers": [
+					"143"
+				]
+			},
+			{
+				"name": "Pars Pas Ligne d'assistance",
+				"numbers": [
+					"027 321 21 21"
+				]
+			},
+			{
+				"name": "LGBTIQ Helpline",
+				"numbers": [
+					"0800 133 133"
 				]
 			}
 		]
