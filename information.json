@@ -4317,10 +4317,21 @@
 		"country": "Malta",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Crisis Resolution Malta",
+				"numbers": [
+					"+356 9933 9966"
+				]
+			},
+			{
+				"name": "Supportline 179",
+				"numbers": [
+					"179"
 				]
 			}
 		]
