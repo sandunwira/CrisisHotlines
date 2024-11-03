@@ -4610,10 +4610,27 @@
 		"country": "Nepal",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"100"
+				]
+			},
+			{
+				"name": "११६६ आत्महत्या रोकथामको लागि राष्ट्रिय हेल्पलाईन",
+				"numbers": [
+					"1166"
+				]
+			},
+			{
+				"name": "TPO Nepal",
+				"numbers": [
+					"+977 16600102005"
+				]
+			},
+			{
+				"name": "Khabar Garaun 1145 Helpline",
+				"numbers": [
+					"1145"
 				]
 			}
 		]
