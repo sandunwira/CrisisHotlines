@@ -6114,10 +6114,75 @@
 		"country": "South Korea",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "자살예방상담전화 109",
+				"numbers": [
+					"109"
+				]
+			},
+			{
+				"name": "청소년상담1388 | Cyber1388",
+				"numbers": [
+					"1388"
+				]
+			},
+			{
+				"name": "한국생명의전화 | Lifeline Korea",
+				"numbers": [
+					"1588 9191"
+				]
+			},
+			{
+				"name": "정신건강복지센터 정신건강위기상담전화 Mental Health Center Crisis Counseling",
+				"numbers": [
+					"1577 0199"
+				]
+			},
+			{
+				"name": "사랑의전화 상담실 - Love Call Center",
+				"numbers": [
+					"1566 2525"
+				]
+			},
+			{
+				"name": "친구사이 한국 헬프라인 - Chingusai South Korea Helpline",
+				"numbers": [
+					"02 6953 7941"
+				]
+			},
+			{
+				"name": "Danuri Helpline | Multicultural Family Support Line",
+				"numbers": [
+					"1577 1366"
+				]
+			},
+			{
+				"name": "여성긴급전화1366",
+				"numbers": [
+					"1366"
+				]
+			},
+			{
+				"name": "한국성폭력상담소",
+				"numbers": [
+					"02 338 5801"
+				]
+			},
+			{
+				"name": "Digital Sex Crime Victim Support Center",
+				"numbers": [
+					"02 735 8994"
+				]
+			},
+			{
+				"name": "한국사이버성폭력대응센터",
+				"numbers": [
+					"02 817 7959"
 				]
 			}
 		]
