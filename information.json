@@ -6025,10 +6025,87 @@
 		"country": "South Africa",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"10 111"
+				]
+			},
+			{
+				"name": "South African Depression And Anxiety Helpline",
+				"numbers": [
+					"0800 567 567"
+				]
+			},
+			{
+				"name": "Akeso Crisis Helpline",
+				"numbers": [
+					"0861 435 787"
+				]
+			},
+			{
+				"name": "Stop Gender Violence Helpline",
+				"numbers": [
+					"0800 150 150"
+				]
+			},
+			{
+				"name": "South African Federation For Mental Health Helpline",
+				"numbers": [
+					"011 781 1852"
+				]
+			},
+			{
+				"name": "Triangle Project",
+				"numbers": [
+					"021 712 6699"
+				]
+			},
+			{
+				"name": "Tears Foundation Helpline",
+				"numbers": [
+					"0800 083 277"
+				]
+			},
+			{
+				"name": "Lifeline South Africa",
+				"numbers": [
+					"0861 322 322"
+				]
+			},
+			{
+				"name": "Department of Social Development Substance Abuse Line 24hr helpline",
+				"numbers": [
+					"0800 12 13 14"
+				]
+			},
+			{
+				"name": "Childline",
+				"numbers": [
+					"116"
+				]
+			},
+			{
+				"name": "National Aids Helpline",
+				"numbers": [
+					"0800 012 322"
+				]
+			},
+			{
+				"name": "AL-ANON",
+				"numbers": [
+					"0861 252 666"
+				]
+			},
+			{
+				"name": "Alcoholics Anonymous South Africa",
+				"numbers": [
+					"0861 435 722"
+				]
+			},
+			{
+				"name": "Rape Crisis Cape Town Trust Helpline",
+				"numbers": [
+					"021 447 9762"
 				]
 			}
 		]
