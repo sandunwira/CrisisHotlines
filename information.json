@@ -2967,10 +2967,33 @@
 		"country": "Iceland",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Hjálparsími Rauða krossins 1717",
+				"numbers": [
+					"1717"
+				]
+			},
+			{
+				"name": "Narcotics Anonymous - Iceland",
+				"numbers": [
+					"+354 661 2915"
+				]
+			},
+			{
+				"name": "Kvennaathvarf Hjálparsími - Helpline Women Shelter",
+				"numbers": [
+					"561 1205"
+				]
+			},
+			{
+				"name": "Pieta Organization",
+				"numbers": [
+					"552 2218"
 				]
 			}
 		]
