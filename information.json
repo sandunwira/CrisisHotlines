@@ -6614,25 +6614,30 @@
 		]
 	},
 	{
-		"country": "Timor-Leste",
-		"hotlines": [
-			{
-				"name": "<organization name>",
-				"numbers": [
-					"<number 1>",
-					"<number 2>"
-				]
-			}
-		]
-	},
-	{
 		"country": "Togo",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"117"
+				]
+			},
+			{
+				"name": "La Croix Bleue du Togo",
+				"numbers": [
+					"80 00 95 95"
+				]
+			},
+			{
+				"name": "Cellule d'Ecoute d'Information et d'Orientation",
+				"numbers": [
+					"1520"
+				]
+			},
+			{
+				"name": "GF2D: Groupe de réflexion et d'action Femme, Démocratie et Développement helpline",
+				"numbers": [
+					"+00228 22 61 49 25"
 				]
 			}
 		]
