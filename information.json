@@ -2601,6 +2601,23 @@
 		]
 	},
 	{
+		"country": "Greenland",
+		"hotlines": [
+			{
+				"name": "Emergency",
+				"numbers": [
+					"112"
+				]
+			},
+			{
+				"name": "Tusaannga",
+				"numbers": [
+					"80 11 80"
+				]
+			}
+		]
+	},
+	{
 		"country": "Grenada",
 		"hotlines": [
 			{
