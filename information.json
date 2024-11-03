@@ -5914,10 +5914,45 @@
 		"country": "Slovakia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"158"
+				]
+			},
+			{
+				"name": "Pomoc obetiam násilia",
+				"numbers": [
+					"0850 111 321"
+				]
+			},
+			{
+				"name": "IPčko",
+				"numbers": [
+					"0800 500 333"
+				]
+			},
+			{
+				"name": "Linka detskej istoty",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Linka dôvery Nezábudka",
+				"numbers": [
+					"0800 800 566"
+				]
+			},
+			{
+				"name": "Телефонна лінія довіри НЕЗАБУДКА",
+				"numbers": [
+					"0800 222 450"
+				]
+			},
+			{
+				"name": "Non-stop linka pre ženy zažívajúce násilie",
+				"numbers": [
+					"0800 212 212"
 				]
 			}
 		]
