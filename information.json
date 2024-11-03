@@ -5297,10 +5297,33 @@
 		"country": "Peru",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "La Voz Amiga",
+				"numbers": [
+					"0800 4 1212"
+				]
+			},
+			{
+				"name": "Infosalud Perú",
+				"numbers": [
+					"113"
+				]
+			},
+			{
+				"name": "Línea 100",
+				"numbers": [
+					"100"
+				]
+			},
+			{
+				"name": "Línea 1815 \"Habla Franco\"",
+				"numbers": [
+					"1815"
 				]
 			}
 		]
