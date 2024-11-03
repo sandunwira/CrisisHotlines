@@ -5535,10 +5535,51 @@
 		"country": "Portugal",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Vozes Amigas de Esperança",
+				"numbers": [
+					"222 030 707"
+				]
+			},
+			{
+				"name": "Linha de Apoio à Criança (SOS Criança)",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Voz de Apoio",
+				"numbers": [
+					"225 50 60 70"
+				]
+			},
+			{
+				"name": "SOS Estudante",
+				"numbers": [
+					"+351915246060"
+				]
+			},
+			{
+				"name": "Telefone da Amizade",
+				"numbers": [
+					"22 832 35 35"
+				]
+			},
+			{
+				"name": "Serviço de Informação a Vítimas de Violência Doméstica Portugal",
+				"numbers": [
+					"800 202 148"
+				]
+			},
+			{
+				"name": "Portuguese Association for Victim Support (APAV)",
+				"numbers": [
+					"116006"
 				]
 			}
 		]
