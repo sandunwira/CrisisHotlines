@@ -6565,10 +6565,15 @@
 		"country": "Tanzania",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "National Child Helpline Tanzania - 116",
+				"numbers": [
+					"116"
 				]
 			}
 		]
