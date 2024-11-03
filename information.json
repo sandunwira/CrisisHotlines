@@ -6582,10 +6582,33 @@
 		"country": "Thailand",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"191"
+				]
+			},
+			{
+				"name": "1323 ปรึกษาปัญหาสุขภาพจิต",
+				"numbers": [
+					"1323"
+				]
+			},
+			{
+				"name": "ศูนย์ช่วยเหลือสังคม สายด่วน 1300 (Social Help Center Hotline 1300)",
+				"numbers": [
+					"1300"
+				]
+			},
+			{
+				"name": "Samaritans Thailand",
+				"numbers": [
+					"02 113 6789"
+				]
+			},
+			{
+				"name": "มูลนิธิหญิงชายก้าวไกล (มญช.) Women and Men Progressive Movement Foundation (WMP.)",
+				"numbers": [
+					"0 2513 2889"
 				]
 			}
 		]
