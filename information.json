@@ -5832,10 +5832,22 @@
 		"country": "Seychelles",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"999"
+				]
+			},
+			{
+				"name": "Quality of Life Division Helpline - Ministry of Family, Youth and Sport",
+				"numbers": [
+					"2722293"
+				]
+			},
+			{
+				"name": "Elderly and Disabled Helpline - Ministry of Family, Youth and Sport",
+				"numbers": [
+					"2603030"
 				]
 			}
 		]
