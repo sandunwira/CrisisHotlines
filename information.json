@@ -5332,10 +5332,39 @@
 		"country": "Philippines",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "HOPELINE",
+				"numbers": [
+					"02 8804 4673"
+				]
+			},
+			{
+				"name": "In Touch: Crisis Line",
+				"numbers": [
+					"+63 2 8893 7603"
+				]
+			},
+			{
+				"name": "NCMH Crisis Hotline",
+				"numbers": [
+					"1800 1888 1553"
+				]
+			},
+			{
+				"name": "Tawag Paglaum - Centro Bisaya",
+				"numbers": [
+					"0966 467 9626"
+				]
+			},
+			{
+				"name": "Bantay Bata Helpline 163",
+				"numbers": [
+					"163"
 				]
 			}
 		]
