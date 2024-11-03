@@ -2937,10 +2937,28 @@
 		"country": "Hungary",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"107"
+				]
+			},
+			{
+				"name": "Kék Vonal Gyermekkrízis Alapítvány",
+				"numbers": [
+					"116 111"
+				]
+			},
+			{
+				"name": "Telefonos Lelki Elsősegély-szolgálat",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "NANE segélyvonal / NANE Helpline",
+				"numbers": [
+					"+36 80 505 101"
 				]
 			}
 		]
