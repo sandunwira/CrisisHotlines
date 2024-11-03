@@ -3002,10 +3002,195 @@
 		"country": "India",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "Vandrevala Foundation crisis intervention helpline",
+				"numbers": [
+					"+91 9999 666 555"
+				]
+			},
+			{
+				"name": "1 Life, Crisis Support, Suicide Prevention",
+				"numbers": [
+					"78930 78930"
+				]
+			},
+			{
+				"name": "Jeevan Aastha Helpline, Suicide prevention and Mental Health Counseling Helpline",
+				"numbers": [
+					"1800 233 3330"
+				]
+			},
+			{
+				"name": "Kiran, 24/7 National Toll free Mental Health Rehabilitation Helpline",
+				"numbers": [
+					"1800 599 0019"
+				]
+			},
+			{
+				"name": "Aasra / आसरा",
+				"numbers": [
+					"91 9820466726"
+				]
+			},
+			{
+				"name": "Tele MANAS",
+				"numbers": [
+					"14416"
+				]
+			},
+			{
+				"name": "ND Prana Lifeline",
+				"numbers": [
+					"1800 20 300 50"
+				]
+			},
+			{
+				"name": "Snehi Helpline, Crisis Intervention Tele Counselling Support",
+				"numbers": [
+					"+919582208181"
+				]
+			},
+			{
+				"name": "Sneha Suicide Prevention Helpline",
+				"numbers": [
+					"+0 44 2464 0050"
+				]
+			},
+			{
+				"name": "Lifeline Foundation",
+				"numbers": [
+					"9088030303"
+				]
+			},
+			{
+				"name": "Samaritans Mumbai",
+				"numbers": [
+					"+91 84229 84528"
+				]
+			},
+			{
+				"name": "iCALL Psychosocial Helpline",
+				"numbers": [
+					"915 298 7821"
+				]
+			},
+			{
+				"name": "Voice That Cares",
+				"numbers": [
+					"8448 8448 45"
+				]
+			},
+			{
+				"name": "Connecting Trust, Every Life Counts",
+				"numbers": [
+					"9922004305"
+				]
+			},
+			{
+				"name": "Parivarthan Counselling Helpline",
+				"numbers": [
+					"+91 7676602602"
+				]
+			},
+			{
+				"name": "Muktaa Mental Health Helpline",
+				"numbers": [
+					"788 788 9882"
+				]
+			},
+			{
+				"name": "Pukar Foundation",
+				"numbers": [
+					"9663896669"
+				]
+			},
+			{
+				"name": "Kashmir Lifeline, Emotional and Mental Crisis support",
+				"numbers": [
+					"1800 180 7020"
+				]
+			},
+			{
+				"name": "NIMHANS Psychosocial Support Helpline",
+				"numbers": [
+					"080 4611 0007"
+				]
+			},
+			{
+				"name": "Mann Talks",
+				"numbers": [
+					"86861 39139"
+				]
+			},
+			{
+				"name": "MPower Mind Matters , 24/7 Mental Health Support Helpline",
+				"numbers": [
+					"1800 120 820050"
+				]
+			},
+			{
+				"name": "The Humsafar Helpline",
+				"numbers": [
+					"9892940966"
+				]
+			},
+			{
+				"name": "CHILDLINE 1098",
+				"numbers": [
+					"1098"
+				]
+			},
+			{
+				"name": "Aks Foundation",
+				"numbers": [
+					"+91 8793 088 814"
+				]
+			},
+			{
+				"name": "NCW 24x7 Helpline | एनसीडब्ल्यू 24x7 हेल्पलाइन",
+				"numbers": [
+					"7827 170 170"
+				]
+			},
+			{
+				"name": "Shakti Shalini",
+				"numbers": [
+					"011 24373737"
+				]
+			},
+			{
+				"name": "Mahila Bol Helpline",
+				"numbers": [
+					"0124 4007444"
+				]
+			},
+			{
+				"name": "Manodarpan",
+				"numbers": [
+					"844 844 0632"
+				]
+			},
+			{
+				"name": "ALZHEIMER'S & RELATED DISORDERS SOCIETY OF INDIA (ARDSI), Helpline",
+				"numbers": [
+					"98461 98471"
+				]
+			},
+			{
+				"name": "iCALL's CHAMPS Helpline",
+				"numbers": [
+					"1800 2222 11"
+				]
+			},
+			{
+				"name": "Positive Parenting & Child Helpline",
+				"numbers": [
+					"1800 532 2244"
 				]
 			}
 		]
