@@ -6716,10 +6716,33 @@
 		"country": "Turkey",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "LGBTİ+ Danışma Hattı - LGBTI+ HelpLine",
+				"numbers": [
+					"0850 888 54 28"
+				]
+			},
+			{
+				"name": "Turkey Youth Support Line - Genclik Destek Hatti",
+				"numbers": [
+					"0850 455 00 70"
+				]
+			},
+			{
+				"name": "Türkiye Ev İçi Şiddet Acil yardım hattı",
+				"numbers": [
+					"+90212 656 96 96"
+				]
+			},
+			{
+				"name": "LİSTAG Danışma Hattı - LISTAG Advisory Line",
+				"numbers": [
+					"0546 484 82 85"
 				]
 			}
 		]
