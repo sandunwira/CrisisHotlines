@@ -3616,10 +3616,27 @@
 		"country": "Jamaica",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"119"
+				]
+			},
+			{
+				"name": "SafeSpot",
+				"numbers": [
+					"888 723 3776"
+				]
+			},
+			{
+				"name": "Mental Health and Suicide Prevention Helpline",
+				"numbers": [
+					"888 639 5433"
+				]
+			},
+			{
+				"name": "U-Matter",
+				"numbers": [
+					"876 838 4897"
 				]
 			}
 		]
