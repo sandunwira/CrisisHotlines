@@ -4925,10 +4925,15 @@
 		"country": "Nicaragua",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"118"
+				]
+			},
+			{
+				"name": "Línea 133",
+				"numbers": [
+					"133"
 				]
 			}
 		]
