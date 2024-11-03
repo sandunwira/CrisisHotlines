@@ -4135,10 +4135,39 @@
 		"country": "Malawi",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"997"
+				]
+			},
+			{
+				"name": "GBV Crisis Line 5600",
+				"numbers": [
+					"5600"
+				]
+			},
+			{
+				"name": "Tithandizane National Child Helpline",
+				"numbers": [
+					"116"
+				]
+			},
+			{
+				"name": "Lifeline Malawi/ANPPCAN Malawi Chapter",
+				"numbers": [
+					"+265 999 399 765"
+				]
+			},
+			{
+				"name": "Youth Helpline 393",
+				"numbers": [
+					"393"
+				]
+			},
+			{
+				"name": "Drug and Substance Abuse Hotline 6600",
+				"numbers": [
+					"6600"
 				]
 			}
 		]
