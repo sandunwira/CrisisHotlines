@@ -5142,10 +5142,15 @@
 		"country": "Oman",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"9999"
+				]
+			},
+			{
+				"name": "Helpline for Family Counseling Oman (Ministry of Social Development)",
+				"numbers": [
+					"77788 800"
 				]
 			}
 		]
