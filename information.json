@@ -3269,10 +3269,208 @@
 		"country": "Ireland",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112",
+					"999"
+				]
+			},
+			{
+				"name": "'Text About It' by spunout",
+				"numbers": [
+					"50808"
+				]
+			},
+			{
+				"name": "Childline",
+				"numbers": [
+					"1800 66 66 66"
+				]
+			},
+			{
+				"name": "SOSAD Ireland",
+				"numbers": [
+					"1800 901 909"
+				]
+			},
+			{
+				"name": "Samaritans (Ireland)",
+				"numbers": [
+					"116 123"
+				]
+			},
+			{
+				"name": "Missing Childrens Hotline",
+				"numbers": [
+					"116 000"
+				]
+			},
+			{
+				"name": "Connect Counselling",
+				"numbers": [
+					"1800 477 477"
+				]
+			},
+			{
+				"name": "Pieta",
+				"numbers": [
+					"1800 247 247"
+				]
+			},
+			{
+				"name": "National Freephone Careline",
+				"numbers": [
+					"1800 24 07 24"
+				]
+			},
+			{
+				"name": "Teenline Ireland",
+				"numbers": [
+					"1800 833 634"
+				]
+			},
+			{
+				"name": "Parkinsons Association of Ireland",
+				"numbers": [
+					"1800 359 359"
+				]
+			},
+			{
+				"name": "Womens Aid 24hr National Freephone Helpline",
+				"numbers": [
+					"1800 341 900"
+				]
+			},
+			{
+				"name": "Teach Tearmainn",
+				"numbers": [
+					"04 552 7584"
+				]
+			},
+			{
+				"name": "Federation For Victim Assistance",
+				"numbers": [
+					"1800 277 477"
+				]
+			},
+			{
+				"name": "Embrace FARM",
+				"numbers": [
+					"085 770 9966"
+				]
+			},
+			{
+				"name": "Ruhama",
+				"numbers": [
+					"1800 02 02 02"
+				]
+			},
+			{
+				"name": "LGBT Ireland - National LGBT+ Helpline",
+				"numbers": [
+					"1800 929 539"
+				]
+			},
+			{
+				"name": "LGBT Ireland - Transgender Family Support Line",
+				"numbers": [
+					"01 907 3707"
+				]
+			},
+			{
+				"name": "The Alzheimer Society of Ireland's National Helpline",
+				"numbers": [
+					"1800 341 341"
+				]
+			},
+			{
+				"name": "National Male Advice Line",
+				"numbers": [
+					"1800 816 588"
+				]
+			},
+			{
+				"name": "Bodywhys - The Eating Disorders Association of Ireland",
+				"numbers": [
+					"01 210 7906"
+				]
+			},
+			{
+				"name": "The CARI Careline",
+				"numbers": [
+					"0818 924 567"
+				]
+			},
+			{
+				"name": "MS Ireland Information Line",
+				"numbers": [
+					"0818 233 233"
+				]
+			},
+			{
+				"name": "Bereavement Support Line",
+				"numbers": [
+					"1800 80 70 77"
+				]
+			},
+			{
+				"name": "Dunlewey Problem Gambling Helpline",
+				"numbers": [
+					"1800 936 725"
+				]
+			},
+			{
+				"name": "West Cork Women Against Violence Project",
+				"numbers": [
+					"1800 203 136"
+				]
+			},
+			{
+				"name": "My Options",
+				"numbers": [
+					"1800 828 010"
+				]
+			},
+			{
+				"name": "Donegal Women's Centre",
+				"numbers": [
+					"074 912 4985"
+				]
+			},
+			{
+				"name": "ALONE",
+				"numbers": [
+					"0818 222 024"
+				]
+			},
+			{
+				"name": "Parentline",
+				"numbers": [
+					"018733500"
+				]
+			},
+			{
+				"name": "Barnardos Parent Supportline",
+				"numbers": [
+					"1800 910 123"
+				]
+			},
+			{
+				"name": "Askonefamily Helpline",
+				"numbers": [
+					"01 662 9212"
+				]
+			},
+			{
+				"name": "Barnardos Childrens Bereavement Helpline",
+				"numbers": [
+					"01 473 2110"
+				]
+			},
+			{
+				"name": "Towards Healing",
+				"numbers": [
+					"1800 303 416"
 				]
 			}
 		]
