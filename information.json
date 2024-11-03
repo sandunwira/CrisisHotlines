@@ -2754,10 +2754,15 @@
 		"country": "Haiti",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"114"
+				]
+			},
+			{
+				"name": "Asistans Sikolojik an IJANS",
+				"numbers": [
+					"2919 9000"
 				]
 			}
 		]
