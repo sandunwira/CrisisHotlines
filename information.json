@@ -4047,10 +4047,75 @@
 		"country": "Luxembourg",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"112"
+				]
+			},
+			{
+				"name": "BEE SECURE Helpline",
+				"numbers": [
+					"8002 1234"
+				]
+			},
+			{
+				"name": "SOS Détresse",
+				"numbers": [
+					"454545"
+				]
+			},
+			{
+				"name": "Femmes en détresse",
+				"numbers": [
+					"00352448181"
+				]
+			},
+			{
+				"name": "Luxembourg Alzheimer Association (as ala)",
+				"numbers": [
+					"26 432 432"
+				]
+			},
+			{
+				"name": "InfoMann - ActTogether A.s.b.l.",
+				"numbers": [
+					"274 965"
+				]
+			},
+			{
+				"name": "Centre National de Prévention des Addictions (CNAPA) -service Fro No",
+				"numbers": [
+					"49 77 77 55"
+				]
+			},
+			{
+				"name": "Child Focus (enfants disparus - enfants en détresse)",
+				"numbers": [
+					"116 000"
+				]
+			},
+			{
+				"name": "Helpline Domestic Violence Luxembourg",
+				"numbers": [
+					"2060 1060"
+				]
+			},
+			{
+				"name": "KJT (Kanner-Jugendtelefon)",
+				"numbers": [
+					"+352 116 111"
+				]
+			},
+			{
+				"name": "Elterentelefon - Ecoute parents (KJT)",
+				"numbers": [
+					"8002 4444"
+				]
+			},
+			{
+				"name": "Centre psycho-social et d'accompagnement scolaires - service d'ecoute/helpline",
+				"numbers": [
+					"8002 9393"
 				]
 			}
 		]
