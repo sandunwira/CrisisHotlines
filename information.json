@@ -5808,10 +5808,22 @@
 		"country": "Serbia",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"192",
+					"112"
+				]
+			},
+			{
+				"name": "Centar \"Srce\"",
+				"numbers": [
+					"0800 300 303"
+				]
+			},
+			{
+				"name": "NADEL - Nacionalna Decija Linija Srbije",
+				"numbers": [
+					"116 111"
 				]
 			}
 		]
