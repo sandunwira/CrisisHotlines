@@ -7364,10 +7364,333 @@
 		"country": "United States",
 		"hotlines": [
 			{
-				"name": "<organization name>",
+				"name": "Emergency",
 				"numbers": [
-					"<number 1>",
-					"<number 2>"
+					"911"
+				]
+			},
+			{
+				"name": "988 Suicide & Crisis Lifeline",
+				"numbers": [
+					"988"
+				]
+			},
+			{
+				"name": "Crisis Text Line",
+				"numbers": [
+					"741741"
+				]
+			},
+			{
+				"name": "TrevorLifeline",
+				"numbers": [
+					"866 488 7386"
+				]
+			},
+			{
+				"name": "Love is Respect",
+				"numbers": [
+					"866 331 9474"
+				]
+			},
+			{
+				"name": "National Domestic Violence Hotline",
+				"numbers": [
+					"800 799 7233"
+				]
+			},
+			{
+				"name": "National Sexual Assault Hotline",
+				"numbers": [
+					"800 656 4673"
+				]
+			},
+			{
+				"name": "National Alliance on Mental Illness (NAMI) HelpLine",
+				"numbers": [
+					"800 950 6264"
+				]
+			},
+			{
+				"name": "SAMHSA's National Helpline",
+				"numbers": [
+					"1 800 662 4357"
+				]
+			},
+			{
+				"name": "National Human Trafficking Hotline",
+				"numbers": [
+					"888 373 7888"
+				]
+			},
+			{
+				"name": "Trans Lifeline",
+				"numbers": [
+					"877 565 8860"
+				]
+			},
+			{
+				"name": "National Abortion Hotline",
+				"numbers": [
+					"800 772 9100"
+				]
+			},
+			{
+				"name": "Veterans Crisis Line",
+				"numbers": [
+					"838255"
+				]
+			},
+			{
+				"name": "National Maternal Mental Health Hotline",
+				"numbers": [
+					"1 833 852 6262"
+				]
+			},
+			{
+				"name": "National Problem Gambling Helpline",
+				"numbers": [
+					"1 800 426 2537"
+				]
+			},
+			{
+				"name": "StrongHearts Native Helpline",
+				"numbers": [
+					"844 762 8483"
+				]
+			},
+			{
+				"name": "National Center for Missing & Exploited Children 24-Hour Hotline",
+				"numbers": [
+					"800 843 5678"
+				]
+			},
+			{
+				"name": "TXT 4 HELP",
+				"numbers": [
+					"44357"
+				]
+			},
+			{
+				"name": "YouthLine",
+				"numbers": [
+					"877 968 8491"
+				]
+			},
+			{
+				"name": "National Parent and Youth Helpline",
+				"numbers": [
+					"855 427 2736"
+				]
+			},
+			{
+				"name": "National Grad Crisis Line",
+				"numbers": [
+					"877 472 3457"
+				]
+			},
+			{
+				"name": "Hey Sam",
+				"numbers": [
+					"439 726"
+				]
+			},
+			{
+				"name": "Teen Line",
+				"numbers": [
+					"800 852 8336"
+				]
+			},
+			{
+				"name": "LGBT National Hotline",
+				"numbers": [
+					"888 843 4564"
+				]
+			},
+			{
+				"name": "LGBT National Coming Out Support Hotline",
+				"numbers": [
+					"888 688 5428"
+				]
+			},
+			{
+				"name": "Physician Support Line",
+				"numbers": [
+					"888 409 0141"
+				]
+			},
+			{
+				"name": "Su Familia",
+				"numbers": [
+					"1 866 783 2645"
+				]
+			},
+			{
+				"name": "Postpartum Support International Helpline",
+				"numbers": [
+					"800 944 4773"
+				]
+			},
+			{
+				"name": "Childhelp's Courage First Athlete Helpline",
+				"numbers": [
+					"888 279 1026"
+				]
+			},
+			{
+				"name": "Disaster Distress Helpline",
+				"numbers": [
+					"800 985 5990"
+				]
+			},
+			{
+				"name": "Scarleteen",
+				"numbers": [
+					"206 866 2279"
+				]
+			},
+			{
+				"name": "Addiction Policy Forum - Alcohol and Drug Helpline",
+				"numbers": [
+					"301 200 3658"
+				]
+			},
+			{
+				"name": "Childhelp National Child Abuse Hotline",
+				"numbers": [
+					"800.422.4453"
+				]
+			},
+			{
+				"name": "Alzheimer's Association Helpline",
+				"numbers": [
+					"800 272 3900"
+				]
+			},
+			{
+				"name": "The Deaf Hotline",
+				"numbers": [
+					"855 812 1001"
+				]
+			},
+			{
+				"name": "Mothers Against Drink Driving (MADD)",
+				"numbers": [
+					"877 623 3435"
+				]
+			},
+			{
+				"name": "Exhale Pro-Voice",
+				"numbers": [
+					"617 749 2948"
+				]
+			},
+			{
+				"name": "Fireside Project - Psychedelic Support Line",
+				"numbers": [
+					"623 473 7433"
+				]
+			},
+			{
+				"name": "Stop It Now!",
+				"numbers": [
+					"888 773 8368"
+				]
+			},
+			{
+				"name": "National Alliance for Eating Disorders",
+				"numbers": [
+					"+1 866 662 1235"
+				]
+			},
+			{
+				"name": "Project Sleep's Sleep Helpline",
+				"numbers": [
+					"1 800 819 2043"
+				]
+			},
+			{
+				"name": "CCRI Crisis Helpline",
+				"numbers": [
+					"844 878 2274"
+				]
+			},
+			{
+				"name": "National Drug Helpline",
+				"numbers": [
+					"844 289 0879"
+				]
+			},
+			{
+				"name": "A Call for Change Helpline",
+				"numbers": [
+					"877 898 3411"
+				]
+			},
+			{
+				"name": "Centerstone Military Services",
+				"numbers": [
+					"866 781 8010"
+				]
+			},
+			{
+				"name": "PTSD Foundation of America",
+				"numbers": [
+					"877 717 7873"
+				]
+			},
+			{
+				"name": "LGBT National Senior Helpline",
+				"numbers": [
+					"888 234 7243"
+				]
+			},
+			{
+				"name": "Caregiver Action Network",
+				"numbers": [
+					"855 227 3640"
+				]
+			},
+			{
+				"name": "Project Rachel",
+				"numbers": [
+					"888 456 4673"
+				]
+			},
+			{
+				"name": "Boys Town National Hotline",
+				"numbers": [
+					"800 448 3000"
+				]
+			},
+			{
+				"name": "All-Options National Talkline",
+				"numbers": [
+					"888 493 0092"
+				]
+			},
+			{
+				"name": "LGBT National Youth Talkline",
+				"numbers": [
+					"800 246 7743"
+				]
+			},
+			{
+				"name": "Friends for Survival - Suicide Loss Helpline",
+				"numbers": [
+					"800 646 7322"
+				]
+			},
+			{
+				"name": "Amala Muslim Youth Helpline",
+				"numbers": [
+					"855 95"
+				]
+			},
+			{
+				"name": "Faith Aloud Helpline",
+				"numbers": [
+					"1 888 717 5010"
 				]
 			}
 		]
