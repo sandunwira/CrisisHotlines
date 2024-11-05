@@ -35,22 +35,25 @@ A list of crisis prevention hotlines
 - [x] Bulgaria
 - [x] Burkina Faso
 - [x] Burundi
+- [x] Cabo Verde (Cape Verde)
 - [x] Cambodia
 - [x] Cameroon
 - [x] Canada
-- [x] Cape Verde
+- [x] Caymon Islands
 - [x] Central African Republic
 - [x] Chad
 - [x] Chile
 - [x] China
 - [x] Colombia
 - [x] Comoros
-- [x] Congo
+- [x] Cook Islands
 - [x] Costa Rica
 - [x] Croatia
 - [x] Cuba
+- [x] Curaçao
 - [x] Cyprus
 - [x] Czech Republic
+- [x] Democratic Republic of the Congo
 - [x] Denmark
 - [x] Djibouti
 - [x] Dominica
@@ -64,6 +67,7 @@ A list of crisis prevention hotlines
 - [x] Estonia
 - [x] Eswatini
 - [x] Ethiopia
+- [x] Federated States of Micronesia
 - [x] Fiji
 - [x] Finland
 - [x] France
@@ -72,14 +76,18 @@ A list of crisis prevention hotlines
 - [x] Georgia
 - [x] Germany
 - [x] Ghana
+- [x] Gibraltar
 - [x] Greece
+- [x] Greenland
 - [x] Grenada
 - [x] Guatemala
 - [x] Guinea
 - [x] Guinea-Bissau
+- [x] Guernsey
 - [x] Guyana
 - [x] Haiti
 - [x] Honduras
+- [x] Hong Kong
 - [x] Hungary
 - [x] Iceland
 - [x] India
@@ -118,7 +126,6 @@ A list of crisis prevention hotlines
 - [x] Mauritania
 - [x] Mauritius
 - [x] Mexico
-- [x] Micronesia
 - [x] Moldova
 - [x] Monaco
 - [x] Mongolia
@@ -140,6 +147,7 @@ A list of crisis prevention hotlines
 - [x] Oman
 - [x] Pakistan
 - [x] Palau
+- [x] Palestine
 - [x] Panama
 - [x] Papua New Guinea
 - [x] Paraguay
@@ -196,7 +204,6 @@ A list of crisis prevention hotlines
 - [x] Uruguay
 - [x] Uzbekistan
 - [x] Vanuatu
-- [x] Vatican City
 - [x] Venezuela
 - [x] Vietnam
 - [x] Yemen
