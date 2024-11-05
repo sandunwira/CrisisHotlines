@@ -2,7 +2,7 @@
 A list of crisis prevention hotlines
 
 Included Hotlines for the following countries:
-- [x] Afghanistan- [x] Afghanistan
+- [x] Afghanistan
 - [x] Albania
 - [x] Algeria
 - [x] Andorra
