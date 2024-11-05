@@ -1,7 +1,12 @@
 # CrisisHotlines
 A list of crisis prevention hotlines
 
-Included Hotlines for the following countries:
+### Countries:
+
+<details>
+  <summary>Click to Expand</summary>
+  <br>
+
 - [x] Afghanistan
 - [x] Albania
 - [x] Algeria
@@ -197,3 +202,5 @@ Included Hotlines for the following countries:
 - [x] Yemen
 - [x] Zambia
 - [x] Zimbabwe
+
+</details>
