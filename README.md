@@ -204,3 +204,33 @@ A list of crisis prevention hotlines
 - [x] Zimbabwe
 
 </details>
+
+
+### Usage:
+
+There are two versions of the API:
+
+- General API:<br>
+https://cdn.jsdelivr.net/gh/sandunwira/CrisisHotlines/information.json
+
+- Minified Version API:<br>
+https://cdn.jsdelivr.net/gh/sandunwira/CrisisHotlines/information.min.json
+<br>
+
+JSON Syntax:
+```json
+[
+  {
+    "country": "<country_name>",
+    "hotlines": [
+      {
+        "name": "<organization_name>",
+        "numbers": [
+          "<number_1>",
+          "<number_2>"
+        ]
+      }
+    ]
+  }
+]
+```
