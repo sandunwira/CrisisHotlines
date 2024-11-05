@@ -1,6 +1,8 @@
 [
   {
     "country": "Afghanistan",
+    "alpha-2": "AF",
+    "alpha-3": "AFG",
     "hotlines": [
       {
         "name": "Afghan Behavioral Health Support",
@@ -12,6 +14,8 @@
   },
   {
     "country": "Albania",
+    "alpha-2": "AL",
+    "alpha-3": "ALB",
     "hotlines": [
       {
         "name": "Alo 116",
@@ -29,6 +33,8 @@
   },
   {
     "country": "Algeria",
+    "alpha-2": "DZ",
+    "alpha-3": "DZA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -46,6 +52,8 @@
   },
   {
     "country": "Andorra",
+    "alpha-2": "AD",
+    "alpha-3": "AND",
     "hotlines": [
       {
         "name": "Emergency",
@@ -57,6 +65,8 @@
   },
   {
     "country": "Angola",
+    "alpha-2": "AO",
+    "alpha-3": "AGO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -68,6 +78,8 @@
   },
   {
     "country": "Antigua and Barbuda",
+    "alpha-2": "AG",
+    "alpha-3": "ATG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -86,6 +98,8 @@
   },
   {
     "country": "Argentina",
+    "alpha-2": "AR",
+    "alpha-3": "ARG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -139,6 +153,8 @@
   },
   {
     "country": "Armenia",
+    "alpha-2": "AM",
+    "alpha-3": "ARM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -164,6 +180,8 @@
   },
   {
     "country": "Australia",
+    "alpha-2": "AU",
+    "alpha-3": "AUS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -339,6 +357,8 @@
   },
   {
     "country": "Austria",
+    "alpha-2": "AT",
+    "alpha-3": "AUT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -464,6 +484,8 @@
   },
   {
     "country": "Azerbaijan",
+    "alpha-2": "AZ",
+    "alpha-3": "AZE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -493,7 +515,9 @@
     ]
   },
   {
-    "country": "The Bahamas",
+    "country": "Bahamas",
+    "alpha-2": "BS",
+    "alpha-3": "BHS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -517,6 +541,8 @@
   },
   {
     "country": "Bahrain",
+    "alpha-2": "BH",
+    "alpha-3": "BHR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -534,6 +560,8 @@
   },
   {
     "country": "Bangladesh",
+    "alpha-2": "BD",
+    "alpha-3": "BGD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -575,6 +603,8 @@
   },
   {
     "country": "Barbados",
+    "alpha-2": "BB",
+    "alpha-3": "BRB",
     "hotlines": [
       {
         "name": "Police",
@@ -616,6 +646,8 @@
   },
   {
     "country": "Belarus",
+    "alpha-2": "BY",
+    "alpha-3": "BLR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -645,6 +677,8 @@
   },
   {
     "country": "Belgium",
+    "alpha-2": "BE",
+    "alpha-3": "BEL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -722,6 +756,8 @@
   },
   {
     "country": "Belize",
+    "alpha-2": "BZ",
+    "alpha-3": "BLZ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -733,6 +769,8 @@
   },
   {
     "country": "Benin",
+    "alpha-2": "BJ",
+    "alpha-3": "BEN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -762,6 +800,8 @@
   },
   {
     "country": "Bhutan",
+    "alpha-2": "BT",
+    "alpha-3": "BTN",
     "hotlines": [
       {
         "name": "Health Help Center",
@@ -773,6 +813,8 @@
   },
   {
     "country": "Bolivia",
+    "alpha-2": "BO",
+    "alpha-3": "BOL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -797,6 +839,8 @@
   },
   {
     "country": "Bosnia and Herzegovina",
+    "alpha-2": "BA",
+    "alpha-3": "BIH",
     "hotlines": [
       {
         "name": "Emergency",
@@ -820,6 +864,8 @@
   },
   {
     "country": "Botswana",
+    "alpha-2": "BW",
+    "alpha-3": "BWA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -849,6 +895,8 @@
   },
   {
     "country": "Brazil",
+    "alpha-2": "BR",
+    "alpha-3": "BRA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -890,6 +938,8 @@
   },
   {
     "country": "Brunei",
+    "alpha-2": "BN",
+    "alpha-3": "BRN",
     "hotlines": [
       {
         "name": "Ambulance",
@@ -913,6 +963,8 @@
   },
   {
     "country": "Bulgaria",
+    "alpha-2": "BG",
+    "alpha-3": "BGR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -954,6 +1006,8 @@
   },
   {
     "country": "Burkina Faso",
+    "alpha-2": "BF",
+    "alpha-3": "BFA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -971,6 +1025,8 @@
   },
   {
     "country": "Burundi",
+    "alpha-2": "BI",
+    "alpha-3": "BDI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1000,6 +1056,8 @@
   },
   {
     "country": "Cabo Verde (Cape Verde)",
+    "alpha-2": "CV",
+    "alpha-3": "CPV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1011,6 +1069,8 @@
   },
   {
     "country": "Cambodia",
+    "alpha-2": "KH",
+    "alpha-3": "KHM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1034,6 +1094,8 @@
   },
   {
     "country": "Cameroon",
+    "alpha-2": "CM",
+    "alpha-3": "CMR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1045,6 +1107,8 @@
   },
   {
     "country": "Canada",
+    "alpha-2": "CA",
+    "alpha-3": "CAN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1159,6 +1223,8 @@
   },
   {
     "country": "Cayman Islands",
+    "alpha-2": "KY",
+    "alpha-3": "CYM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1176,6 +1242,8 @@
   },
   {
     "country": "Central African Republic",
+    "alpha-2": "CF",
+    "alpha-3": "CAF",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1187,6 +1255,8 @@
   },
   {
     "country": "Chad",
+    "alpha-2": "TD",
+    "alpha-3": "TCD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1198,6 +1268,8 @@
   },
   {
     "country": "Chile",
+    "alpha-2": "CL",
+    "alpha-3": "CHL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1257,6 +1329,8 @@
   },
   {
     "country": "China",
+    "alpha-2": "CN",
+    "alpha-3": "CHN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1378,6 +1452,8 @@
   },
   {
     "country": "Colombia",
+    "alpha-2": "CO",
+    "alpha-3": "COL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1437,6 +1513,8 @@
   },
   {
     "country": "Comoros",
+    "alpha-2": "KM",
+    "alpha-3": "COM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1448,6 +1526,8 @@
   },
   {
     "country": "Cook Islands",
+    "alpha-2": "CK",
+    "alpha-3": "COK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1465,6 +1545,8 @@
   },
   {
     "country": "Costa Rica",
+    "alpha-2": "CR",
+    "alpha-3": "CRI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1494,6 +1576,8 @@
   },
   {
     "country": "Croatia",
+    "alpha-2": "HR",
+    "alpha-3": "HRV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1535,6 +1619,8 @@
   },
   {
     "country": "Cuba",
+    "alpha-2": "CU",
+    "alpha-3": "CUB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1546,6 +1632,8 @@
   },
   {
     "country": "Curaçao",
+    "alpha-2": "CW",
+    "alpha-3": "CUW",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1563,6 +1651,8 @@
   },
   {
     "country": "Cyprus",
+    "alpha-2": "CY",
+    "alpha-3": "CYP",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1599,6 +1689,8 @@
   },
   {
     "country": "Czech Republic",
+    "alpha-2": "CZ",
+    "alpha-3": "CZE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1671,6 +1763,8 @@
   },
   {
     "country": "Democratic Republic of the Congo",
+    "alpha-2": "CD",
+    "alpha-3": "COD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1682,6 +1776,8 @@
   },
   {
     "country": "Denmark",
+    "alpha-2": "DK",
+    "alpha-3": "DNK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1777,6 +1873,8 @@
   },
   {
     "country": "Djibouti",
+    "alpha-2": "DJ",
+    "alpha-3": "DJI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1794,6 +1892,8 @@
   },
   {
     "country": "Dominica",
+    "alpha-2": "DM",
+    "alpha-3": "DMA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1805,6 +1905,8 @@
   },
   {
     "country": "Dominican Republic",
+    "alpha-2": "DO",
+    "alpha-3": "DOM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1822,6 +1924,8 @@
   },
   {
     "country": "East Timor",
+    "alpha-2": "TL",
+    "alpha-3": "TLS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1833,6 +1937,8 @@
   },
   {
     "country": "Ecuador",
+    "alpha-2": "EC",
+    "alpha-3": "ECU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1862,6 +1968,8 @@
   },
   {
     "country": "Egypt",
+    "alpha-2": "EG",
+    "alpha-3": "EGY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1881,6 +1989,8 @@
   },
   {
     "country": "El Salvador",
+    "alpha-2": "SV",
+    "alpha-3": "SLV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1892,6 +2002,8 @@
   },
   {
     "country": "Equatorial Guinea",
+    "alpha-2": "GQ",
+    "alpha-3": "GNQ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1903,6 +2015,8 @@
   },
   {
     "country": "Eritrea",
+    "alpha-2": "ER",
+    "alpha-3": "ERI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1914,6 +2028,8 @@
   },
   {
     "country": "Estonia",
+    "alpha-2": "EE",
+    "alpha-3": "EST",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1955,6 +2071,8 @@
   },
   {
     "country": "Eswatini",
+    "alpha-2": "SZ",
+    "alpha-3": "SWZ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1966,6 +2084,8 @@
   },
   {
     "country": "Ethiopia",
+    "alpha-2": "ET",
+    "alpha-3": "ETH",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1977,6 +2097,8 @@
   },
   {
     "country": "Federated States of Micronesia",
+    "alpha-2": "FM",
+    "alpha-3": "FSM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -1988,6 +2110,8 @@
   },
   {
     "country": "Fiji",
+    "alpha-2": "FJ",
+    "alpha-3": "FJI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2036,6 +2160,8 @@
   },
   {
     "country": "Finland",
+    "alpha-2": "FI",
+    "alpha-3": "FIN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2125,6 +2251,8 @@
   },
   {
     "country": "France",
+    "alpha-2": "FR",
+    "alpha-3": "FRA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2353,6 +2481,8 @@
   },
   {
     "country": "Gabon",
+    "alpha-2": "GA",
+    "alpha-3": "GAB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2364,6 +2494,8 @@
   },
   {
     "country": "Gambia",
+    "alpha-2": "GM",
+    "alpha-3": "GMB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2381,6 +2513,8 @@
   },
   {
     "country": "Georgia",
+    "alpha-2": "GE",
+    "alpha-3": "GEO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2392,6 +2526,8 @@
   },
   {
     "country": "Germany",
+    "alpha-2": "DE",
+    "alpha-3": "DEU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2487,6 +2623,8 @@
   },
   {
     "country": "Ghana",
+    "alpha-2": "GH",
+    "alpha-3": "GHA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2506,6 +2644,8 @@
   },
   {
     "country": "Gibraltar",
+    "alpha-2": "GI",
+    "alpha-3": "GIB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2537,6 +2677,8 @@
   },
   {
     "country": "Greece",
+    "alpha-2": "GR",
+    "alpha-3": "GRC",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2602,6 +2744,8 @@
   },
   {
     "country": "Greenland",
+    "alpha-2": "GL",
+    "alpha-3": "GRL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2619,6 +2763,8 @@
   },
   {
     "country": "Grenada",
+    "alpha-2": "GD",
+    "alpha-3": "GRD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2630,6 +2776,8 @@
   },
   {
     "country": "Guatemala",
+    "alpha-2": "GT",
+    "alpha-3": "GTM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2647,6 +2795,8 @@
   },
   {
     "country": "Guinea",
+    "alpha-2": "GN",
+    "alpha-3": "GIN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2658,6 +2808,8 @@
   },
   {
     "country": "Guinea-Bissau",
+    "alpha-2": "GW",
+    "alpha-3": "GNB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2669,6 +2821,8 @@
   },
   {
     "country": "Guernsey",
+    "alpha-2": "GG",
+    "alpha-3": "GGY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2723,6 +2877,8 @@
   },
   {
     "country": "Guyana",
+    "alpha-2": "GY",
+    "alpha-3": "GUY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2752,6 +2908,8 @@
   },
   {
     "country": "Haiti",
+    "alpha-2": "HT",
+    "alpha-3": "HTI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2769,6 +2927,8 @@
   },
   {
     "country": "Honduras",
+    "alpha-2": "HN",
+    "alpha-3": "HND",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2786,6 +2946,8 @@
   },
   {
     "country": "Hong Kong",
+    "alpha-2": "HK",
+    "alpha-3": "HKG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2935,6 +3097,8 @@
   },
   {
     "country": "Hungary",
+    "alpha-2": "HU",
+    "alpha-3": "HUN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -2965,6 +3129,8 @@
   },
   {
     "country": "Iceland",
+    "alpha-2": "IS",
+    "alpha-3": "ISL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3000,6 +3166,8 @@
   },
   {
     "country": "India",
+    "alpha-2": "IN",
+    "alpha-3": "IND",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3197,6 +3365,8 @@
   },
   {
     "country": "Indonesia",
+    "alpha-2": "ID",
+    "alpha-3": "IDN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3232,6 +3402,8 @@
   },
   {
     "country": "Iran",
+    "alpha-2": "IR",
+    "alpha-3": "IRN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3255,6 +3427,8 @@
   },
   {
     "country": "Iraq",
+    "alpha-2": "IQ",
+    "alpha-3": "IRQ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3267,6 +3441,8 @@
   },
   {
     "country": "Ireland",
+    "alpha-2": "IE",
+    "alpha-3": "IRL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3477,6 +3653,8 @@
   },
   {
     "country": "Israel",
+    "alpha-2": "IL",
+    "alpha-3": "ISR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3542,6 +3720,8 @@
   },
   {
     "country": "Italy",
+    "alpha-2": "IT",
+    "alpha-3": "ITA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3601,6 +3781,8 @@
   },
   {
     "country": "Ivory Coast",
+    "alpha-2": "CI",
+    "alpha-3": "CIV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3614,6 +3796,8 @@
   },
   {
     "country": "Jamaica",
+    "alpha-2": "JM",
+    "alpha-3": "JAM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3643,6 +3827,8 @@
   },
   {
     "country": "Japan",
+    "alpha-2": "JP",
+    "alpha-3": "JPN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3720,6 +3906,8 @@
   },
   {
     "country": "Jordan",
+    "alpha-2": "JO",
+    "alpha-3": "JOR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3743,6 +3931,8 @@
   },
   {
     "country": "Kazakhstan",
+    "alpha-2": "KZ",
+    "alpha-3": "KAZ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3760,6 +3950,8 @@
   },
   {
     "country": "Kenya",
+    "alpha-2": "KE",
+    "alpha-3": "KEN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3797,6 +3989,8 @@
   },
   {
     "country": "Kiribati",
+    "alpha-2": "KI",
+    "alpha-3": "KIR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3809,6 +4003,8 @@
   },
   {
     "country": "Kosovo",
+    "alpha-2": "XK",
+    "alpha-3": "XKX",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3826,6 +4022,8 @@
   },
   {
     "country": "Kuwait",
+    "alpha-2": "KW",
+    "alpha-3": "KWT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3843,6 +4041,8 @@
   },
   {
     "country": "Kyrgyzstan",
+    "alpha-2": "KG",
+    "alpha-3": "KGZ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3860,6 +4060,8 @@
   },
   {
     "country": "Laos",
+    "alpha-2": "LA",
+    "alpha-3": "LAO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3871,6 +4073,8 @@
   },
   {
     "country": "Latvia",
+    "alpha-2": "LV",
+    "alpha-3": "LVA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3900,6 +4104,8 @@
   },
   {
     "country": "Lebanon",
+    "alpha-2": "LB",
+    "alpha-3": "LBN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3936,6 +4142,8 @@
   },
   {
     "country": "Lesotho",
+    "alpha-2": "LS",
+    "alpha-3": "LSO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3947,6 +4155,8 @@
   },
   {
     "country": "Liberia",
+    "alpha-2": "LR",
+    "alpha-3": "LBR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3958,6 +4168,8 @@
   },
   {
     "country": "Libya",
+    "alpha-2": "LY",
+    "alpha-3": "LBY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3975,6 +4187,8 @@
   },
   {
     "country": "Liechtenstein",
+    "alpha-2": "LI",
+    "alpha-3": "LIE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -3986,6 +4200,8 @@
   },
   {
     "country": "Lithuania",
+    "alpha-2": "LT",
+    "alpha-3": "LTU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4045,6 +4261,8 @@
   },
   {
     "country": "Luxembourg",
+    "alpha-2": "LU",
+    "alpha-3": "LUX",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4122,6 +4340,8 @@
   },
   {
     "country": "Madagascar",
+    "alpha-2": "MG",
+    "alpha-3": "MDG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4133,6 +4353,8 @@
   },
   {
     "country": "Malawi",
+    "alpha-2": "MW",
+    "alpha-3": "MWI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4174,6 +4396,8 @@
   },
   {
     "country": "Malaysia",
+    "alpha-2": "MY",
+    "alpha-3": "MYS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4281,6 +4505,8 @@
   },
   {
     "country": "Maldives",
+    "alpha-2": "MV",
+    "alpha-3": "MDV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4304,6 +4530,8 @@
   },
   {
     "country": "Mali",
+    "alpha-2": "ML",
+    "alpha-3": "MLI",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4315,6 +4543,8 @@
   },
   {
     "country": "Malta",
+    "alpha-2": "MT",
+    "alpha-3": "MLT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4338,6 +4568,8 @@
   },
   {
     "country": "Marshall Islands",
+    "alpha-2": "MH",
+    "alpha-3": "MHL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4349,6 +4581,8 @@
   },
   {
     "country": "Mauritania",
+    "alpha-2": "MR",
+    "alpha-3": "MRT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4366,6 +4600,8 @@
   },
   {
     "country": "Mauritius",
+    "alpha-2": "MU",
+    "alpha-3": "MUS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4401,6 +4637,8 @@
   },
   {
     "country": "Mexico",
+    "alpha-2": "MX",
+    "alpha-3": "MEX",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4460,6 +4698,8 @@
   },
   {
     "country": "Moldova",
+    "alpha-2": "MD",
+    "alpha-3": "MDA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4483,6 +4723,8 @@
   },
   {
     "country": "Monaco",
+    "alpha-2": "MC",
+    "alpha-3": "MCO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4500,6 +4742,8 @@
   },
   {
     "country": "Mongolia",
+    "alpha-2": "MN",
+    "alpha-3": "MNG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4523,6 +4767,8 @@
   },
   {
     "country": "Montenegro",
+    "alpha-2": "ME",
+    "alpha-3": "MNE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4535,6 +4781,8 @@
   },
   {
     "country": "Morocco",
+    "alpha-2": "MA",
+    "alpha-3": "MAR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4546,6 +4794,8 @@
   },
   {
     "country": "Mozambique",
+    "alpha-2": "MZ",
+    "alpha-3": "MOZ",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4563,6 +4813,8 @@
   },
   {
     "country": "Myanmar",
+    "alpha-2": "MM",
+    "alpha-3": "MMR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4574,6 +4826,8 @@
   },
   {
     "country": "Namibia",
+    "alpha-2": "NA",
+    "alpha-3": "NAM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4597,6 +4851,8 @@
   },
   {
     "country": "Nauru",
+    "alpha-2": "NR",
+    "alpha-3": "NRU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4608,6 +4864,8 @@
   },
   {
     "country": "Nepal",
+    "alpha-2": "NP",
+    "alpha-3": "NPL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4637,6 +4895,8 @@
   },
   {
     "country": "Netherlands",
+    "alpha-2": "NL",
+    "alpha-3": "NLD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4726,6 +4986,8 @@
   },
   {
     "country": "New Zealand",
+    "alpha-2": "NZ",
+    "alpha-3": "NZL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4923,6 +5185,8 @@
   },
   {
     "country": "Nicaragua",
+    "alpha-2": "NI",
+    "alpha-3": "NIC",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4940,6 +5204,8 @@
   },
   {
     "country": "Niger",
+    "alpha-2": "NE",
+    "alpha-3": "NER",
     "hotlines": [
       {
         "name": "Emergency",
@@ -4951,6 +5217,8 @@
   },
   {
     "country": "Nigeria",
+    "alpha-2": "NG",
+    "alpha-3": "NGA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5010,6 +5278,8 @@
   },
   {
     "country": "North Korea",
+    "alpha-2": "KP",
+    "alpha-3": "PRK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5021,6 +5291,8 @@
   },
   {
     "country": "North Macedonia",
+    "alpha-2": "MK",
+    "alpha-3": "MKD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5045,6 +5317,8 @@
   },
   {
     "country": "Norway",
+    "alpha-2": "NO",
+    "alpha-3": "NOR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5140,6 +5414,8 @@
   },
   {
     "country": "Oman",
+    "alpha-2": "OM",
+    "alpha-3": "OMN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5157,6 +5433,8 @@
   },
   {
     "country": "Pakistan",
+    "alpha-2": "PK",
+    "alpha-3": "PAK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5210,6 +5488,8 @@
   },
   {
     "country": "Palau",
+    "alpha-2": "PW",
+    "alpha-3": "PLW",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5221,6 +5501,8 @@
   },
   {
     "country": "Palestine",
+    "alpha-2": "PS",
+    "alpha-3": "PSE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5244,6 +5526,8 @@
   },
   {
     "country": "Panama",
+    "alpha-2": "PA",
+    "alpha-3": "PAN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5261,6 +5545,8 @@
   },
   {
     "country": "Papua New Guinea",
+    "alpha-2": "PG",
+    "alpha-3": "PNG",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5278,6 +5564,8 @@
   },
   {
     "country": "Paraguay",
+    "alpha-2": "PY",
+    "alpha-3": "PRY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5295,6 +5583,8 @@
   },
   {
     "country": "Peru",
+    "alpha-2": "PE",
+    "alpha-3": "PER",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5330,6 +5620,8 @@
   },
   {
     "country": "Philippines",
+    "alpha-2": "PH",
+    "alpha-3": "PHL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5371,6 +5663,8 @@
   },
   {
     "country": "Poland",
+    "alpha-2": "PL",
+    "alpha-3": "POL",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5533,6 +5827,8 @@
   },
   {
     "country": "Portugal",
+    "alpha-2": "PT",
+    "alpha-3": "PRT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5586,6 +5882,8 @@
   },
   {
     "country": "Qatar",
+    "alpha-2": "QA",
+    "alpha-3": "QAT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5609,6 +5907,8 @@
   },
   {
     "country": "Romania",
+    "alpha-2": "RO",
+    "alpha-3": "ROU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5644,6 +5944,8 @@
   },
   {
     "country": "Russia",
+    "alpha-2": "RU",
+    "alpha-3": "RUS",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5686,6 +5988,8 @@
   },
   {
     "country": "Rwanda",
+    "alpha-2": "RW",
+    "alpha-3": "RWA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5697,6 +6001,8 @@
   },
   {
     "country": "Saint Kitts and Nevis",
+    "alpha-2": "KN",
+    "alpha-3": "KNA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5708,6 +6014,8 @@
   },
   {
     "country": "Saint Lucia",
+    "alpha-2": "LC",
+    "alpha-3": "LCA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5726,6 +6034,8 @@
   },
   {
     "country": "Saint Vincent and the Grenadines",
+    "alpha-2": "VC",
+    "alpha-3": "VCT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5739,6 +6049,8 @@
   },
   {
     "country": "Samoa",
+    "alpha-2": "WS",
+    "alpha-3": "WSM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5756,6 +6068,8 @@
   },
   {
     "country": "San Marino",
+    "alpha-2": "SM",
+    "alpha-3": "SMR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5767,6 +6081,8 @@
   },
   {
     "country": "Sao Tome and Principe",
+    "alpha-2": "ST",
+    "alpha-3": "STP",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5778,6 +6094,8 @@
   },
   {
     "country": "Saudi Arabia",
+    "alpha-2": "SA",
+    "alpha-3": "SAU",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5795,6 +6113,8 @@
   },
   {
     "country": "Senegal",
+    "alpha-2": "SN",
+    "alpha-3": "SEN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5806,6 +6126,8 @@
   },
   {
     "country": "Serbia",
+    "alpha-2": "RS",
+    "alpha-3": "SRB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5830,6 +6152,8 @@
   },
   {
     "country": "Seychelles",
+    "alpha-2": "SC",
+    "alpha-3": "SYC",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5854,6 +6178,8 @@
   },
   {
     "country": "Sierra Leone",
+    "alpha-2": "SL",
+    "alpha-3": "SLE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5865,6 +6191,8 @@
   },
   {
     "country": "Singapore",
+    "alpha-2": "SG",
+    "alpha-3": "SGP",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5912,6 +6240,8 @@
   },
   {
     "country": "Slovakia",
+    "alpha-2": "SK",
+    "alpha-3": "SVK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -5959,6 +6289,8 @@
   },
   {
     "country": "Slovenia",
+    "alpha-2": "SI",
+    "alpha-3": "SVN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6000,6 +6332,8 @@
   },
   {
     "country": "Solomon Islands",
+    "alpha-2": "SB",
+    "alpha-3": "SLB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6012,6 +6346,8 @@
   },
   {
     "country": "Somalia",
+    "alpha-2": "SO",
+    "alpha-3": "SOM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6023,6 +6359,8 @@
   },
   {
     "country": "South Africa",
+    "alpha-2": "ZA",
+    "alpha-3": "ZAF",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6112,6 +6450,8 @@
   },
   {
     "country": "South Korea",
+    "alpha-2": "KR",
+    "alpha-3": "KOR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6189,6 +6529,8 @@
   },
   {
     "country": "South Sudan",
+    "alpha-2": "SS",
+    "alpha-3": "SSD",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6200,6 +6542,8 @@
   },
   {
     "country": "Spain",
+    "alpha-2": "ES",
+    "alpha-3": "ESP",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6271,6 +6615,8 @@
   },
   {
     "country": "Sri Lanka",
+    "alpha-2": "LK",
+    "alpha-3": "LKA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6312,6 +6658,8 @@
   },
   {
     "country": "Sudan",
+    "alpha-2": "SD",
+    "alpha-3": "SDN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6323,6 +6671,8 @@
   },
   {
     "country": "Suriname",
+    "alpha-2": "SR",
+    "alpha-3": "SUR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6340,6 +6690,8 @@
   },
   {
     "country": "Sweden",
+    "alpha-2": "SE",
+    "alpha-3": "SWE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6465,6 +6817,8 @@
   },
   {
     "country": "Switzerland",
+    "alpha-2": "CH",
+    "alpha-3": "CHE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6500,6 +6854,8 @@
   },
   {
     "country": "Syria",
+    "alpha-2": "SY",
+    "alpha-3": "SYR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6511,6 +6867,8 @@
   },
   {
     "country": "Taiwan",
+    "alpha-2": "TW",
+    "alpha-3": "TWN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6552,6 +6910,8 @@
   },
   {
     "country": "Tajikistan",
+    "alpha-2": "TJ",
+    "alpha-3": "TJK",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6563,6 +6923,8 @@
   },
   {
     "country": "Tanzania",
+    "alpha-2": "TZ",
+    "alpha-3": "TZA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6580,6 +6942,8 @@
   },
   {
     "country": "Thailand",
+    "alpha-2": "TH",
+    "alpha-3": "THA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6615,6 +6979,8 @@
   },
   {
     "country": "Togo",
+    "alpha-2": "TG",
+    "alpha-3": "TGO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6644,6 +7010,8 @@
   },
   {
     "country": "Tonga",
+    "alpha-2": "TO",
+    "alpha-3": "TON",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6661,6 +7029,8 @@
   },
   {
     "country": "Trinidad and Tobago",
+    "alpha-2": "TT",
+    "alpha-3": "TTO",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6703,6 +7073,8 @@
   },
   {
     "country": "Tunisia",
+    "alpha-2": "TN",
+    "alpha-3": "TUN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6714,6 +7086,8 @@
   },
   {
     "country": "Turkey",
+    "alpha-2": "TR",
+    "alpha-3": "TUR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6749,6 +7123,8 @@
   },
   {
     "country": "Turkmenistan",
+    "alpha-2": "TM",
+    "alpha-3": "TKM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6760,6 +7136,8 @@
   },
   {
     "country": "Tuvalu",
+    "alpha-2": "TV",
+    "alpha-3": "TUV",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6771,6 +7149,8 @@
   },
   {
     "country": "Uganda",
+    "alpha-2": "UG",
+    "alpha-3": "UGA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6800,6 +7180,8 @@
   },
   {
     "country": "Ukraine",
+    "alpha-2": "UA",
+    "alpha-3": "UKR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6835,6 +7217,8 @@
   },
   {
     "country": "United Arab Emirates",
+    "alpha-2": "AE",
+    "alpha-3": "ARE",
     "hotlines": [
       {
         "name": "Emergency",
@@ -6858,6 +7242,8 @@
   },
   {
     "country": "United Kingdom",
+    "alpha-2": "GB",
+    "alpha-3": "GBR",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7362,6 +7748,8 @@
   },
   {
     "country": "United States",
+    "alpha-2": "US",
+    "alpha-3": "USA",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7697,6 +8085,8 @@
   },
   {
     "country": "Uruguay",
+    "alpha-2": "UY",
+    "alpha-3": "URY",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7720,6 +8110,8 @@
   },
   {
     "country": "Uzbekistan",
+    "alpha-2": "UZ",
+    "alpha-3": "UZB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7731,6 +8123,8 @@
   },
   {
     "country": "Vanuatu",
+    "alpha-2": "VU",
+    "alpha-3": "VUT",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7748,6 +8142,8 @@
   },
   {
     "country": "Venezuela",
+    "alpha-2": "VE",
+    "alpha-3": "VEN",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7766,6 +8162,8 @@
   },
   {
     "country": "Vietnam",
+    "alpha-2": "VN",
+    "alpha-3": "VNM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7807,6 +8205,8 @@
   },
   {
     "country": "Yemen",
+    "alpha-2": "YE",
+    "alpha-3": "YEM",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7824,6 +8224,8 @@
   },
   {
     "country": "Zambia",
+    "alpha-2": "ZM",
+    "alpha-3": "ZMB",
     "hotlines": [
       {
         "name": "Emergency",
@@ -7847,6 +8249,8 @@
   },
   {
     "country": "Zimbabwe",
+    "alpha-2": "ZW",
+    "alpha-3": "ZWE",
     "hotlines": [
       {
         "name": "Emergency",
