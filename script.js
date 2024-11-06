@@ -104,36 +104,40 @@ getHelplinesByCountry();
 
 
 searchBtn.addEventListener('click', () => {
-	const searchValue = searchField.value;
-	console.log('Search Value:', searchValue);
+	if (searchField.value.trim() === '' || searchField.value.trim() === ' ') {
+		getHelplinesByCountry();
+		return;
+	} else {
+		const searchValue = searchField.value;
+		console.log('Search Value:', searchValue);
 
-	const filteredHelplines = helplinesData.filter(helpline => {
-		return helpline.country.toLowerCase().includes(searchValue.toLowerCase());
-	});
+		const filteredHelplines = helplinesData.filter(helpline => {
+			return helpline.country.toLowerCase().includes(searchValue.toLowerCase());
+		});
 
-	// Calculate total hotlines and numbers
-	const totalHotlines = filteredHelplines.reduce((sum, country) => {
-		return sum + country.hotlines.reduce((numberSum, hotline) => {
-			return numberSum + hotline.numbers.length;
+		// Calculate total hotlines and numbers
+		const totalHotlines = filteredHelplines.reduce((sum, country) => {
+			return sum + country.hotlines.reduce((numberSum, hotline) => {
+				return numberSum + hotline.numbers.length;
+			}, 0);
 		}, 0);
-	}, 0);
 
-	// Update display text
-	resultsCount.textContent = `Found ${totalHotlines} results for "${searchValue}"`;
+		// Update display text
+		resultsCount.textContent = `Found ${totalHotlines} results for "${searchValue}"`;
 
-	console.log('Filtered Helplines:', filteredHelplines);
+		console.log('Filtered Helplines:', filteredHelplines);
 
-	// Clear container
-	hotlineCardsContainer.innerHTML = '';
+		// Clear container
+		hotlineCardsContainer.innerHTML = '';
 
-	// Generate cards
-	filteredHelplines.forEach(helpline => {
-		helpline.hotlines.forEach(hotline => {
-			hotline.numbers.forEach(number => {
-				const hotlineCard = document.createElement('div');
-				hotlineCard.classList.add('hotlineCard', 'flex', 'flexRow');
+		// Generate cards
+		filteredHelplines.forEach(helpline => {
+			helpline.hotlines.forEach(hotline => {
+				hotline.numbers.forEach(number => {
+					const hotlineCard = document.createElement('div');
+					hotlineCard.classList.add('hotlineCard', 'flex', 'flexRow');
 
-				hotlineCard.innerHTML = `
+					hotlineCard.innerHTML = `
 							<span class="details flex flexCol" style="gap: 10px;">
 								<h3>${hotline.name}</h3>
 								<span class="location flex flexRow"
@@ -158,10 +162,11 @@ searchBtn.addEventListener('click', () => {
 							</a>
 						`;
 
-				hotlineCardsContainer.appendChild(hotlineCard);
+					hotlineCardsContainer.appendChild(hotlineCard);
+				});
 			});
 		});
-	});
+	}
 });
 
 
@@ -178,4 +183,28 @@ searchField.addEventListener('input', () => {
 	} else {
 		searchBtn.click();
 	}
+});
+
+
+
+
+const scrollToTopBtn = document.getElementById("toTopBtn");
+
+window.onscroll = function () {
+	scrollFunction();
+};
+
+function scrollFunction() {
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		scrollToTopBtn.style.opacity = "1";
+		scrollToTopBtn.style.transition = "0.2s";
+	} else {
+		scrollToTopBtn.style.opacity = "0";
+		scrollToTopBtn.style.transition = "0.2s";
+	}
+}
+
+scrollToTopBtn.addEventListener("click", function () {
+	document.body.scrollTop = 0; // For Safari
+	document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 });
