@@ -229,6 +229,8 @@ JSON Syntax:
 [
   {
     "country": "<country_name>",
+    "alpha-2": "<alpha-2_code>",
+    "alpha-3": "<alpha-3_code>",
     "hotlines": [
       {
         "name": "<organization_name>",
