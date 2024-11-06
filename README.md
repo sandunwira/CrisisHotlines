@@ -293,6 +293,16 @@ Sources:
 <hr>
 
 
+### Sources:
+
+- Find A Helpline:<br>
+https://findahelpline.com
+- Wikipedia:<br>
+https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers
+
+<hr>
+
+
 <div align="center">
   Thank you for your time ❤
 </div>
