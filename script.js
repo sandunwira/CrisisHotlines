@@ -70,10 +70,10 @@ async function getHelplinesByCountry() {
 				hotlineCard.classList.add('hotlineCard', 'flex', 'flexRow');
 
 				hotlineCard.innerHTML = `
-							<span class="flex flexCol" style="width: 70%; align-items: flex-start; gap: 10px;">
+							<span class="details flex flexCol" style="gap: 10px;">
 								<h3>${hotline.name}</h3>
-								<span class="flex flexRow"
-									style="font-size: 12px; font-weight: 500; text-transform: uppercase; gap: 5px; user-select: none; padding: 5px 8px; background: #ECECEC; border-radius: 6px;">
+								<span class="location flex flexRow"
+									style="font-weight: 500; text-transform: uppercase; gap: 10px; user-select: none; padding: 5px 8px; background: #ECECEC; border-radius: 6px;">
 									<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"
 										fill="currentColor" class="icon icon-tabler icons-tabler-filled icon-tabler-map-pin">
 										<path stroke="none" d="M0 0h24v24H0z" fill="none" />
@@ -134,10 +134,10 @@ searchBtn.addEventListener('click', () => {
 				hotlineCard.classList.add('hotlineCard', 'flex', 'flexRow');
 
 				hotlineCard.innerHTML = `
-							<span class="flex flexCol" style="width: 70%; align-items: flex-start; gap: 10px;">
+							<span class="details flex flexCol" style="gap: 10px;">
 								<h3>${hotline.name}</h3>
-								<span class="flex flexRow"
-									style="font-size: 12px; font-weight: 500; text-transform: uppercase; gap: 5px; user-select: none; padding: 5px 8px; background: #ECECEC; border-radius: 6px;">
+								<span class="location flex flexRow"
+									style="font-weight: 500; text-transform: uppercase; gap: 10px; user-select: none; padding: 5px 8px; background: #ECECEC; border-radius: 6px;">
 									<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24"
 										fill="currentColor" class="icon icon-tabler icons-tabler-filled icon-tabler-map-pin">
 										<path stroke="none" d="M0 0h24v24H0z" fill="none" />

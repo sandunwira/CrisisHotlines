@@ -78,7 +78,6 @@ h6 { font-size: 12px; }
 
 
 input, textarea {
-	width: 100%;
 	padding: 12px 15px;
 	border: 1px solid var(--whiteGray);
 	border-radius: 5px;
@@ -106,6 +105,15 @@ button:hover {
 }
 
 
+#navbar {
+	padding: 25px 50px;
+}
+
+#navbar img {
+	width: 20px;
+	height: 20px;
+}
+
 .hotlineCard {
 	width: calc(100% - 60px);
 	justify-content: space-between;
@@ -114,6 +122,13 @@ button:hover {
 	background: #FFFFFF;
 	border: 1px solid var(--whiteGray);
 	border-radius: 10px;
+}
+.hotlineCard .details {
+	width: 70%;
+	align-items: flex-start;
+}
+.hotlineCard .location {
+	font-size: 12px;
 }
 .hotlineCard h3 {
 	text-transform: none;
@@ -136,5 +151,68 @@ button:hover {
 	}
 	to {
 		transform: rotate(360deg);
+	}
+}
+
+
+@media screen and (max-width: 500px) {
+	#navbar {
+		padding: 25px 25px;
+	}
+
+	#navbar img {
+		height: 15px;
+		width: 15px;
+	}
+
+	#navbarHeading {
+		font-size: 15px;
+	}
+
+	.containerBlock {
+		width: calc(100% - 50px);
+		padding: 50px 25px;
+	}
+
+	#searchContainer {
+		flex-direction: column;
+		gap: 25px;
+	}
+	#searchContainer input {
+		width: 100%;
+	}
+	#searchContainer button {
+		width: calc(100% + 30px);
+	}
+
+	.hotlineCard {
+		flex-direction: column;
+		align-items: center;
+		gap: 25px;
+		padding: 20px;
+	}
+
+	.hotlineCard .details {
+		width: 100%;
+		align-items: center;
+	}
+
+	.hotlineCard .location {
+		font-size: 10px;
+	}
+	.hotlineCard .location svg {
+		width: 10px;
+		height: 10px;
+	}
+
+	.hotlineCard h3 {
+		text-align: center;
+		font-size: 16px;
+		width: 95%;
+	}
+
+	.hotlineCard a {
+		width: 100%;
+		justify-content: center;
 	}
 }

@@ -2,6 +2,8 @@
 <html>
 
 <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>CrisisHotlines</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="script.js" defer></script>
@@ -11,12 +13,12 @@
 
 <body>
 	<header>
-		<div class="containerBlock flex" style="padding: 25px 50px; border: none;">
+		<div class="containerBlock flex" style="border: none;" id="navbar">
 			<div class="container">
 				<nav class="flex flexRow" style="justify-content: space-between;">
 					<a href="" class="flex flexRow" style="gap: 5px;">
-						<img src="favicon.png" alt="CrisisHotlines" style="width: 20px; height: 20px;">
-						<h1>CrisisHotlines</h1>
+						<img src="favicon.png" alt="CrisisHotlines">
+						<h1 id="navbarHeading">CrisisHotlines</h1>
 					</a>
 
 					<div class="flex flexRow" style="gap: 20px;">
@@ -50,12 +52,12 @@
 	<div class="containerBlock flex">
 		<div class="container flex flexCol" style="gap: 50px;">
 			<div class="flex flexCol" style="gap: 15px;">
-				<h2 style="color: var(--black); font-size: 34px;">Find a helpline</h2>
+				<h2 style="color: var(--black); font-size: 34px; text-align: center;">Find a helpline</h2>
 				<p style="color: var(--black);">Search for a helpline by country</p>
 			</div>
 
 			<div class="flex flexCol" style="gap: 15px;">
-				<div class="flex flexRow" style="gap: 15px;">
+				<div class="flex flexRow" id="searchContainer" style="gap: 15px;">
 					<input type="text" placeholder="Search by country" id="searchField">
 					<button type="button" id="searchBtn">Search</button>
 				</div>
