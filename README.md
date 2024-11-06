@@ -1,10 +1,35 @@
 # CrisisHotlines
-A list of crisis prevention hotlines
 
-### Countries:
+A JSON API to help people around the world for quickly seeking help at a crisis.
+
+The API follows this syntax:
+```json
+[
+  {
+    "country": "<country_name>",
+    "alpha-2": "<alpha-2_code>",
+    "alpha-3": "<alpha-3_code>",
+    "hotlines": [
+      {
+        "name": "<organization_name>",
+        "numbers": [
+          "<number_1>",
+          "<number_2>"
+        ]
+      }
+    ]
+  },
+  ----------- repeating for every country -----------
+]
+```
+
+<hr>
+
+
+### Included Countries:
 
 <details>
-  <summary>Click to Expand</summary>
+  <summary>Collapse</summary>
   <br>
 
 - [x] Afghanistan
@@ -212,6 +237,8 @@ A list of crisis prevention hotlines
 
 </details>
 
+<hr>
+
 
 ### Usage:
 
@@ -222,24 +249,50 @@ https://cdn.jsdelivr.net/gh/sandunwira/CrisisHotlines/information.json
 
 - Minified Version API:<br>
 https://cdn.jsdelivr.net/gh/sandunwira/CrisisHotlines/information.min.json
-<br>
 
-JSON Syntax:
-```json
-[
-  {
-    "country": "<country_name>",
-    "alpha-2": "<alpha-2_code>",
-    "alpha-3": "<alpha-3_code>",
-    "hotlines": [
-      {
-        "name": "<organization_name>",
-        "numbers": [
-          "<number_1>",
-          "<number_2>"
-        ]
-      }
-    ]
-  }
-]
+<hr>
+
+
+### Contribute:
+
+If you wish to contribute to this project, you can either create a new issue or create a fork and contribute
+
+##### Contribute via issue:
+
+Use this template when creating an issue to have a streamlined review:
+
 ```
+What do you want to change or have issues about?:
+<summary or description of the issue>
+
+Sources for verification, if you want to add information to the project:
+<sources for verifying the information>
+```
+
+##### Contribute via forks:
+
+1. Create a fork:<br>
+https://github.com/sandunwira/CrisisHotlines/fork
+
+2. Clone your forked repository<br>
+
+3. Make adjustments in `information.json` file (make sure to sync your fork with the base repository always, to avoid conflicts when merging PRs)
+
+4. After making adjustments to your fork, commit the changes to your repository
+
+5. Then create a pull request to the base repository from your repository:<br>
+To avoid false information and to have a streamlined PR review, please make sure to use the following as a template for your pull request when creating:
+```
+What did you change?:
+<summary or description of what you have changed>
+
+Sources:
+<sources for verifying the information>
+```
+
+<hr>
+
+
+<div align="center">
+  Thank you for your time ❤
+</div>
