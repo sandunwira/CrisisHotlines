@@ -1,19 +1,26 @@
 # CrisisHotlines
 
-A JSON API to help people around the world for quickly seeking help at a crisis.
+A project to help people around the world for quickly seeking help at a crisis.
+
+Live Demo: https://sandunwira.github.io/CrisisHotlines
+
+<hr>
+
+
+### API:
 
 The API follows this syntax:
 ```json
 [
   {
-    "country": "<country_name>",
-    "alpha-2": "<alpha-2_code>",
-    "alpha-3": "<alpha-3_code>",
+    "country": "<country_name>",  // Ex: Sri Lanka
+    "alpha-2": "<alpha-2_code>",  // Ex: LK
+    "alpha-3": "<alpha-3_code>",  // Ex: LKA
     "hotlines": [
       {
-        "name": "<organization_name>",
+        "name": "<organization_name>",  // Ex: Emergency
         "numbers": [
-          "<number_1>",
+          "<number_1>",  // Ex: 119
           "<number_2>"
         ]
       }
