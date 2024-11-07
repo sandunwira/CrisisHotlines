@@ -5,6 +5,34 @@ const resultsCount = document.getElementById('resultsCount');
 const locatedCountryContainer = document.getElementById('locatedCountryContainer');
 const locatedCountry = document.getElementById('locatedCountry');
 
+
+
+function offlineAvailability() {
+	fetch('https://google.com', {
+		method: 'HEAD',
+		mode: 'no-cors'
+	}).then(() => {
+		locatedCountryContainer.style.display = 'none';
+		resultsCount.textContent = 'Try searching for a country';
+		hotlineCardsContainer.innerHTML = `
+			<div class="error flex flexCol" style="width: calc(100% - 30px); padding: 50px 15px; background: #FFFFFF; border-radius: 10px; border: 1px solid var(--whiteGray);">
+				<p>Results will appear here</p>
+			</div>
+		`;
+	}).catch(() => {
+		locatedCountryContainer.style.display = 'none';
+		resultsCount.textContent = 'Try searching for a country';
+		hotlineCardsContainer.innerHTML = `
+			<div class="error flex flexCol" style="width: calc(100% - 30px); padding: 50px 15px; background: #FFFFFF; border-radius: 10px; border: 1px solid var(--whiteGray);">
+				<p>Results will appear here</p>
+			</div>
+		`;
+	});
+}
+offlineAvailability();
+
+
+
 async function getIPAddress() {
 	return fetch('https://ipinfo.io/?token=a6384bf1fee5c5')
 		.then(response => response.json())
@@ -27,8 +55,8 @@ async function getIPAddress() {
 			throw error;
 		});
 }
-
 getIPAddress();
+
 
 
 let helplinesData = [];
@@ -46,8 +74,8 @@ async function getHelplines() {
 			throw error;
 		});
 }
-
 getHelplines();
+
 
 
 async function getHelplinesByCountry() {
@@ -108,8 +136,8 @@ async function getHelplinesByCountry() {
 		});
 	});
 }
-
 getHelplinesByCountry();
+
 
 
 searchBtn.addEventListener('click', () => {
@@ -178,13 +206,11 @@ searchBtn.addEventListener('click', () => {
 	}
 });
 
-
 document.addEventListener('keydown', (event) => {
 	if (event.key === 'Enter') {
 		searchBtn.click();
 	}
 });
-
 
 searchField.addEventListener('input', () => {
 	if (searchField.value.trim() === '' || searchField.value.trim() === ' ') {
@@ -193,7 +219,6 @@ searchField.addEventListener('input', () => {
 		searchBtn.click();
 	}
 });
-
 
 
 
