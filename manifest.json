@@ -1,0 +1,21 @@
+{
+	"short_name": "CrisisHotlines",
+	"name": "CrisisHotlines",
+	"icons": [
+		{
+			"src": "https://sandunwira.github.io/CrisisHotlines/favicon.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://sandunwira.github.io/CrisisHotlines/favicon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/CrisisHotlines/",
+	"background_color": "#CC3333",
+	"display": "standalone",
+	"scope": "/CrisisHotlines/",
+	"theme_color": "#CC3333"
+}
