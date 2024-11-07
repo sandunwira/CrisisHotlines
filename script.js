@@ -12,14 +12,9 @@ function offlineAvailability() {
 		method: 'HEAD',
 		mode: 'no-cors'
 	}).then(() => {
-		locatedCountryContainer.style.display = 'none';
-		resultsCount.textContent = 'Try searching for a country';
-		hotlineCardsContainer.innerHTML = `
-			<div class="error flex flexCol" style="width: calc(100% - 30px); padding: 50px 15px; background: #FFFFFF; border-radius: 10px; border: 1px solid var(--whiteGray);">
-				<p>Results will appear here</p>
-			</div>
-		`;
+		console.log('Online');
 	}).catch(() => {
+		console.log('Offline');
 		locatedCountryContainer.style.display = 'none';
 		resultsCount.textContent = 'Try searching for a country';
 		hotlineCardsContainer.innerHTML = `
