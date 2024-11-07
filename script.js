@@ -2,19 +2,28 @@ const searchField = document.getElementById('searchField');
 const searchBtn = document.getElementById('searchBtn');
 const hotlineCardsContainer = document.getElementById('hotlineCardsContainer');
 const resultsCount = document.getElementById('resultsCount');
+const locatedCountryContainer = document.getElementById('locatedCountryContainer');
 const locatedCountry = document.getElementById('locatedCountry');
 
 async function getIPAddress() {
 	return fetch('https://ipinfo.io/?token=a6384bf1fee5c5')
 		.then(response => response.json())
 		.then(data => {
-			const ipaddress = data.ip;
 			const country = data.country;
 			locatedCountry.textContent = country;
 			return country;
 		})
 		.catch(error => {
 			console.error('Error in getIPAddress:', error);
+
+			locatedCountryContainer.style.display = 'none';
+			resultsCount.textContent = 'Try searching for a country';
+			hotlineCardsContainer.innerHTML = `
+				<div class="error flex flexCol" style="width: 100%; padding: 50px 15px; background: #FFFFFF; border-radius: 10px; border: 1px solid var(--whiteGray);">
+					<p>Results will appear here</p>
+				</div>
+			`;
+
 			throw error;
 		});
 }
